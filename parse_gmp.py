@@ -83,7 +83,3 @@ def get_gmp_timeline_from_stock_name(stock_name):
         })
     
     return stock_data
-
-
-
-print(get_gmp_timeline_from_stock_name("Divyadhan Recycling Industries"))
