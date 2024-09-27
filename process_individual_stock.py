@@ -1,5 +1,5 @@
 from crawler_helper import scrape_page
-from helper import convert_to_iso_format, parse_lot_size, process_ipo_date, process_listing_date
+from helper import convert_to_iso_format, convert_to_slug, parse_lot_size, process_ipo_date, process_listing_date
 
 import re
 
@@ -16,12 +16,6 @@ def process_individual_stock(individual_stock):
     data = scrape_page(link)
     ipo_meta = data.find('div', class_='ipo-meta')
 
-    ipo_date = ipo_meta.find('div', class_='four columns').find('div', class_='value').text.strip()
-    if(ipo_date == 'To be announced'):
-        ipo_start_date = None
-        ipo_end_date = None
-    else:
-        ipo_start_date, ipo_end_date = process_ipo_date(ipo_date)
     listing_date = ipo_meta.find_all('div', class_='four columns')[1].find('div', class_='value').text.strip()
     if(listing_date == '-'):
         listing_date = None
@@ -50,8 +44,9 @@ def process_individual_stock(individual_stock):
             label = row.find('td', class_='ipo-schedule-label').text.strip()
             date = convert_to_iso_format(row.find('td', class_='ipo-schedule-date').text.strip())
             schedule_temp = {}
-            schedule_temp["event_name"] = label
-            schedule_temp["event_date"] = date
+            schedule_temp["event"] = convert_to_slug(label)
+            schedule_temp["date"] = date
+            schedule_temp["eventTitle"] = label
             schedule.append(schedule_temp)
 
 
@@ -71,18 +66,24 @@ def process_individual_stock(individual_stock):
         about_section = " /n ".join(content_text)
     else:
         about_section = about_section_str.text
-    price_range_list = re.findall(r'\d+', price_range)
-    if len(price_range_list) != 0:
-        min_price = re.findall(r'\d+', price_range)[0]
-        max_price = re.findall(r'\d+', price_range)[1]
-    else:
-        min_price = None
-        max_price = None
+    # ipo_date = ipo_meta.find('div', class_='four columns').find('div', class_='value').text.strip()
+    # if(ipo_date == 'To be announced'):
+    #     ipo_start_date = None
+    #     ipo_end_date = None
+    # else:
+    #     ipo_start_date, ipo_end_date = process_ipo_date(ipo_date)
+    # price_range_list = re.findall(r'\d+', price_range)
+    # if len(price_range_list) != 0:
+    #     min_price = re.findall(r'\d+', price_range)[0]
+    #     max_price = re.findall(r'\d+', price_range)[1]
+    # else:
+    #     min_price = None
+    #     max_price = None
 
-    if listing_date:
-        listing_date = process_listing_date(listing_date)
-    else:
-        listing_date = None
+    # if listing_date:
+    #     listing_date = process_listing_date(listing_date)
+    # else:
+    #     listing_date = None
 
     strengths = []
     strengths_header = data.find('h3', text='Strengths') or data.find('h2', text='Strengths') 
@@ -97,13 +98,13 @@ def process_individual_stock(individual_stock):
         risks_list = risks_header.find_next('ul')
         risks = [li.text for li in risks_list.find_all('li')]
     data = {
-        'ipo_start_date': ipo_start_date,
-        'ipo_end_date': ipo_end_date,
-        'listing_date':listing_date,
-        'min_price': min_price,
-        'max_price': max_price,
-        'issue_size': issue_size,
-        'lot_size': lot_size,
+        # 'ipo_start_date': ipo_start_date,
+        # 'ipo_end_date': ipo_end_date,
+        # 'listing_date':listing_date,
+        # 'min_price': min_price,
+        # 'max_price': max_price,
+        'issueSize': issue_size,
+        'sizePerLot': lot_size,
         'schedule': schedule,
         'about': about_section,
         'min_investment' : min_investment,

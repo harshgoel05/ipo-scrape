@@ -1,5 +1,5 @@
 from constants import CRAWL_BASE_URL
-from helper import parse_symbol, process_ipo_date, process_listing_date, process_price_range
+from helper import convert_to_slug, parse_symbol, process_ipo_date, process_listing_date, process_price_range
 
 
 def parse_home_page(rows):
@@ -24,15 +24,18 @@ def parse_home_page(rows):
             processed_listing_date = process_listing_date(listing_date)
             # Create a dictionary for the current stock
             stock_info = {
-                'logo_url': logo_url,
+                'logoUrl': logo_url,
                 'link': CRAWL_BASE_URL + link,
                 'symbol': symbol,
                 'name': name,
-                'ipo_start_date': ipo_start_date,
-                'ipo_end_date': ipo_end_date,
-                'listing_date': processed_listing_date,
-                'min_price': min_price,
-                'max_price': max_price
+                'startDate': ipo_start_date,
+                'endDate': ipo_end_date,
+                'listingDate': processed_listing_date,
+                'priceRange': {
+                    'min': min_price,
+                    'max': max_price
+                },
+                'slug' : convert_to_slug(name)
             }
 
             # Append the stock info to the list

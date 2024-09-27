@@ -1,4 +1,5 @@
 import json
+from time import sleep
 from crawler_helper import crawl_home_page
 from helper import find, extract_symbols, write_json
 from parse_gmp import get_gmp_timeline
@@ -11,8 +12,10 @@ def process_stocks_info(stock_data):
         try:
             print(f"Fetching Symbol: {stock['name']}")
             # Find the individual stock data in stock_data using symbol and add to json in stock_details
+            sleep(5)
             stock['details'] = get_full_ipo_details(stock)
-            stock['gmp_timeline'] = get_gmp_timeline(stock)
+            sleep(5)
+            stock['gmpTimeline'] = get_gmp_timeline(stock)
             updated_stock_data.append(stock)
         except Exception as e:
             print(f"Error fetching stock: {stock['symbol']}")
