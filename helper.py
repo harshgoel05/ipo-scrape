@@ -151,3 +151,16 @@ def find(arr , id):
         if x["symbol"] == id:
             return [x]
 
+
+
+def convert_to_slug(company_name):
+    # Step 1: Convert to lowercase
+    company_name = company_name.lower()
+
+    # Step 2: Replace spaces and special characters with hyphens
+    company_name = company_name.replace(' ', '-')
+
+    # Step 3: Add "-ttd" suffix to the company name
+    slug = f"{company_name}-ttd"
+
+    return slug

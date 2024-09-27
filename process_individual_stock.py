@@ -1,13 +1,11 @@
-from crawler_helper import crawl_stock_page
+from crawler_helper import scrape_page
 from helper import convert_to_iso_format, parse_lot_size, process_ipo_date, process_listing_date
-
 
 import re
 
-
 def process_individual_stock(individual_stock):
     link = individual_stock['link']
-    data = crawl_stock_page(link)
+    data = scrape_page(link)
     ipo_meta = data.find('div', class_='ipo-meta')
 
     ipo_date = ipo_meta.find('div', class_='four columns').find('div', class_='value').text.strip()

@@ -15,7 +15,7 @@ def crawl_home_page():
         return None
 
 
-def crawl_stock_page(link):
+def scrape_page(link):
     try:
         r = requests.get(link)
         soup = BeautifulSoup(r.content, 'html.parser')
