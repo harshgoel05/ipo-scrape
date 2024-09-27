@@ -9,7 +9,7 @@ def process_stocks_info(stock_data):
     updated_stock_data = []
     for stock in stock_data:
         try:
-            print(f"Fetching Symbol: {stock['symbol']}")
+            print(f"Fetching Symbol: {stock['name']}")
             # Find the individual stock data in stock_data using symbol and add to json in stock_details
             stock['details'] = get_full_ipo_details(stock)
             stock['gmp_timeline'] = get_gmp_timeline(stock)

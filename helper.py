@@ -167,6 +167,8 @@ def convert_to_slug(company_name):
     company_name = company_name.replace(' ', '-')
 
     # Step 3: Add "-ttd" suffix to the company name
-    slug = f"{company_name}-ttd"
-
+    slug = f"{company_name}"
+    # Remove ltd from the slug if present at the end
+    if slug.endswith('-ltd'):
+        slug = slug.replace('-ltd', '')
     return slug

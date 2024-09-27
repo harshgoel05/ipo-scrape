@@ -38,7 +38,7 @@ def convert_date(date_str):
     
 def get_gmp_timeline(stock):
     try:
-        return get_gmp_timeline_from_stock_name(stock['symbol'])
+        return get_gmp_timeline_from_stock_name(stock['name'])
     except Exception as e:
         print(f"Error getting GMP timeline for {stock['symbol']}")
         print(e)
@@ -83,5 +83,4 @@ def get_gmp_timeline_from_stock_name(stock_name):
         })
     
     return stock_data
-
 
