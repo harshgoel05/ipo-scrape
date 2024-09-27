@@ -42,7 +42,12 @@ def get_gmp_timeline_from_stock_name(stock):
     if not stock.get('gmpUrl'):
         print(f"[DEBUG] {datetime.now()} No GMP URL found for {stock['symbol']}")
         return None
-    data = scrape_page(stock.get('gmpUrl'))
+    gmp_data = parse_gmp_page(stock.get('gmpUrl'))
+    return gmp_data
+
+
+def parse_gmp_page(gmpUrl):
+    data = scrape_page(gmpUrl)
     if not data:
         print(f"[DEBUG] {datetime.now()} No Data Error scraping gmp page: {stock['symbol']}")
         return None
