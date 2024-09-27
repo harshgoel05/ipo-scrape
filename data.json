@@ -1,0 +1,1260 @@
+[
+  {
+    "id": "IPO12345",
+    "status": "open",
+    "slug": "company-a-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-a-ltd",
+    "name": "Company A Ltd",
+    "companyDescription": "Company A Ltd is a leading player in the consumer electronics sector.",
+    "symbol": "COMPA",
+    "type": "Mainboard",
+    "startDate": "2024-09-20T00:00:00Z",
+    "endDate": "2024-10-26T17:00:00",
+    "isDateFinal": true,
+    "listingDate": "2024-10-01T00:00:00Z",
+    "priceRange": {
+      "min": 500,
+      "max": 550
+    },
+    "minQty": 10,
+    "sizePerLot": 100,
+    "logo": "https://company-a.com/logo.png",
+    "issueSize": "500 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-a-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-20T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-01T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-22T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 75.5,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": true,
+    "lastUpdatedAt": "2024-09-26T17:00:00Z",
+    "createdAt": "2024-09-18T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 50000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 5
+      },
+      "qibQuota": {
+        "offeredShares": 100000,
+        "appliedShares": 80000,
+        "minLotSizePerApplication": 5,
+        "maxLotSizePerApplication": 10
+      },
+      "shniQuota": {
+        "offeredShares": 30000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 3
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO67890",
+    "status": "closed",
+    "slug": "company-b-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-b-ltd",
+    "name": "Company B Ltd",
+    "companyDescription": "Company B Ltd is a renowned pharmaceutical company.",
+    "symbol": "COMPB",
+    "type": "SME",
+    "startDate": "2024-09-26T17:00:00Z",
+    "endDate": "2024-08-20T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-09-01T00:00:00Z",
+    "priceRange": {
+      "min": 200,
+      "max": 22
+    },
+    "minQty": 20,
+    "sizePerLot": 200,
+    "logo": "https://company-b.com/logo.png",
+    "issueSize": "200 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-b-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-08-15T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-09-01T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-08-18T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 300.75,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": null,
+    "lastUpdatedAt": "2024-09-02T00:00:00Z",
+    "createdAt": "2024-08-10T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 30000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 4
+      },
+      "qibQuota": {
+        "offeredShares": 60000,
+        "appliedShares": 45000,
+        "minLotSizePerApplication": 5,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      },
+      "bHNIQuota": {
+        "offeredShares": 15000,
+        "appliedShares": 12000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 3
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  },
+  {
+    "id": "IPO98765",
+    "status": "open",
+    "slug": "company-c-ltd",
+    "infoUrl": "https://bseindia.com/ipo/company-c-ltd",
+    "name": "Company C Ltd",
+    "companyDescription": "Company C Ltd is a fast-growing fintech company.",
+    "symbol": "COMPC",
+    "type": "Mainboard",
+    "startDate": "2024-09-22T00:00:00Z",
+    "endDate": "2024-09-27T00:00:00Z",
+    "isDateFinal": true,
+    "listingDate": "2024-10-05T00:00:00Z",
+    "priceRange": {
+      "min": 300,
+      "max": 320
+    },
+    "minQty": 15,
+    "sizePerLot": 150,
+    "logo": "https://company-c.com/logo.png",
+    "issueSize": "350 Cr",
+    "prospectusUrl": "https://bseindia.com/ipo/company-c-ltd/prospectus.pdf",
+    "schedule": [
+      {
+        "event": "issue_open",
+        "date": "2024-09-22T00:00:00Z",
+        "eventTitle": "Issue Opens"
+      },
+      {
+        "event": "listing_date",
+        "date": "2024-10-05T00:00:00Z",
+        "eventTitle": "Listing Date"
+      }
+    ],
+    "gmpDetails": {
+      "gmpTimeline": [
+        {
+          "event": "gmp_update",
+          "date": "2024-09-24T00:00:00Z"
+        }
+      ],
+      "latestGmpPrice": 45.25,
+      "isGmpActivated": true
+    },
+    "applyRecommendation": false,
+    "lastUpdatedAt": "2024-09-25T00:00:00Z",
+    "createdAt": "2024-09-19T00:00:00Z",
+    "quota": {
+      "retailQuota": {
+        "offeredShares": 40000,
+        "appliedShares": 20000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 6
+      },
+      "qibQuota": {
+        "offeredShares": 80000,
+        "appliedShares": 60000,
+        "minLotSizePerApplication": 3,
+        "maxLotSizePerApplication": 8
+      },
+      "shniQuota": {
+        "offeredShares": 25000,
+        "appliedShares": 15000,
+        "minLotSizePerApplication": 2,
+        "maxLotSizePerApplication": 4
+      },
+      "bHNIQuota": {
+        "offeredShares": 20000,
+        "appliedShares": 10000,
+        "minLotSizePerApplication": 1,
+        "maxLotSizePerApplication": 2
+      }
+    }
+  }
+]
