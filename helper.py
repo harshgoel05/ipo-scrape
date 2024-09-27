@@ -13,7 +13,7 @@ def parse_lot_size(input_string):
         else:
             raise ValueError("Input string does not match the expected format.")
     except ValueError as e:
-        print(f"Error parsing lot size: {e}")
+        print(f"[DEBUG] ${datetime.now()} Error parsing lot size: ${input_string} {e}")
         return None, None
     
 def convert_to_iso_format(date_str):
@@ -40,8 +40,9 @@ def convert_to_iso_format(date_str):
         # Convert to ISO 8601 format
         return combined.isoformat()
 
-    except ValueError as e:
-        return f"Error: {e}"
+    except Exception as e:
+        print(f"[DEBUG] ${datetime.now()} Error converting to ISO format: ${date_str} {e}")
+        return None
     
 def process_listing_date(listing_date_str):
     try:
@@ -55,21 +56,21 @@ def process_listing_date(listing_date_str):
         
         # Format the date with time
         return listing_date.strftime("%Y-%m-%dT%H:%M:%S")
-    except ValueError:
-        print(f"Error parsing listing date: {listing_date_str}")  # Debug print
+    except Exception as e:
+        print(f"[DEBUG] ${datetime.now()} Error parsing listing date: {listing_date_str}",e) 
         return None
     
 def process_price_range(price_range):
-    if(price_range == '-'):
-        return None
-    # Remove the Rupee symbol and split the range
-    prices = re.sub(r'[^\d\s–]', '', price_range).split('–')
-    
     try:
+        if(price_range == '-' or price_range == '\u2013'):
+            return None, None
+        # Remove the Rupee symbol and split the range
+        prices = re.sub(r'[^\d\s–]', '', price_range).split('–')
         min_price = int(prices[0].strip())
         max_price = int(prices[-1].strip()) if len(prices) > 1 else min_price
         return min_price, max_price
     except ValueError:
+        print(f"[DEBUG] ${datetime.now()} Error parsing price range: {price_range}")
         return None, None
 
 
@@ -109,7 +110,7 @@ def process_ipo_date(ipo_date):
             
             return parsed_date
         except ValueError:
-            print(f"Error parsing date: {date_str}")  # Debug print
+            print(f"[DEBUG] ${datetime.now()} Error parsing ipo date: {date_str}")
             return None
 
     # Parse end date first (it's usually more complete)
@@ -158,6 +159,11 @@ def extract_symbols(arr):
     return slugs
         
 
+def extract_names(arr):
+    slugs = []
+    for x in arr:
+        slugs.append(x["name"])
+    return slugs
 
 def convert_to_slug(company_name):
     # Step 1: Convert to lowercase

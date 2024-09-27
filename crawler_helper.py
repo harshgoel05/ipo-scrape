@@ -1,3 +1,4 @@
+from datetime import datetime
 from constants import CRAWL_BASE_URL, CRAWL_HOME_PAGE
 
 import requests
@@ -14,7 +15,7 @@ def crawl_home_page():
         rows.extend(tables[1].find('tbody').find_all('tr'))
         return rows
     except Exception as e:
-        print(f"Error crawling home page: {e}")
+        print(f"[DEBUG] ${datetime.now()} Error crawling home page: {e}")
         return None
 
 
@@ -25,5 +26,5 @@ def scrape_page(link):
         # Return Div instead of soup
         return soup
     except Exception as e:
-        print(f"Error crawling stock page: {e}")
+        print(f"[DEBUG] ${datetime.now()} Error crawling stock page link - ${link} Error - {e}")
         return None

@@ -17,7 +17,7 @@ def process_individual_stock(individual_stock):
     ipo_meta = data.find('div', class_='ipo-meta')
 
     listing_date = ipo_meta.find_all('div', class_='four columns')[1].find('div', class_='value').text.strip()
-    if(listing_date == '-'):
+    if(listing_date == '-' or listing_date == '\u2013'):
         listing_date = None
     price_range = ipo_meta.find_all('div', class_='three columns')[0].find('div', class_='value').text.strip()
     issue_size = ipo_meta.find_all('div', class_='two columns')[0].find('div', class_='value').text.strip()

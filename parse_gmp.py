@@ -1,11 +1,4 @@
 from crawler_helper import scrape_page
-from helper import convert_to_slug
-
-
-GMP_BASE_URL = "https://ipowatch.in/"
-
-GMP_URL_SUFFIX = "-ipo-gmp-grey-market-premium/"
-
 
 from datetime import datetime, timedelta
 
@@ -38,29 +31,27 @@ def convert_date(date_str):
     
 def get_gmp_timeline(stock):
     try:
-        return get_gmp_timeline_from_stock_name(stock['name'])
+        return get_gmp_timeline_from_stock_name(stock)
     except Exception as e:
-        print(f"Error getting GMP timeline for {stock['symbol']}")
+        print(f"[DEBUG] ${datetime.now()} Error getting GMP timeline for {stock['symbol']}")
         print(e)
         return None
 
 
-def get_gmp_timeline_from_stock_name(stock_name):
-    stock_name = convert_to_slug(stock_name)
-    link = GMP_BASE_URL + stock_name + GMP_URL_SUFFIX
-    data = scrape_page(link)
+def get_gmp_timeline_from_stock_name(stock):
+    data = scrape_page(stock.get('gmpUrl'))
     if not data:
-        print(f"Error scraping stock page: {stock_name}")
+        print(f"[DEBUG] ${datetime.now()} No Data Error scraping gmp page: {stock['symbol']}")
         return None
     is_error = data.find('h1', class_='elementor-heading-title').text.strip()
     if is_error == '404':
-        print(f"Error scraping stock page: {stock_name}")
+        print(f"[DEBUG] ${datetime.now()} 404 Error scraping gmp page: {stock['symbol']}")
         return None
 
     table_cont = data.find('figure', class_='wp-block-table')
     table = table_cont.find('tbody')
     if not table:
-        print(f"Error scraping stock page: {stock_name}")
+        print(f"[DEBUG] ${datetime.now()} No table found Error scraping gmp page: {stock['symbol']}")
         return None
     
     # Initialize an empty list to store the data
@@ -74,7 +65,7 @@ def get_gmp_timeline_from_stock_name(stock_name):
         gmp = cols[1].get_text().strip()   # Extract the GMP value
         
         # Remove ₹ symbol and handle '-' as null
-        gmp_cleaned = None if gmp == '₹-' or gmp == '-' else int(gmp.replace('₹', '').strip())
+        gmp_cleaned = None if gmp == '₹-' or gmp == '-' or gmp == '\u2013' else int(gmp.replace('₹', '').strip())
         
         # Append the data to the list in the required format
         stock_data.append({
