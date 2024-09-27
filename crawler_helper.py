@@ -8,7 +8,10 @@ def crawl_home_page():
     try:
         r = requests.get(CRAWL_BASE_URL  + CRAWL_HOME_PAGE)
         soup = BeautifulSoup(r.content, 'html.parser')
-        rows = soup.find('div', id="ipos").find('table').find('tbody').find_all('tr')
+        tables = soup.find('div', id="ipos").findAll('table')
+        rows = []
+        rows.extend(tables[0].find('tbody').find_all('tr'))
+        rows.extend(tables[1].find('tbody').find_all('tr'))
         return rows
     except Exception as e:
         print(f"Error crawling home page: {e}")

@@ -150,7 +150,13 @@ def find(arr , id):
     for x in arr:
         if x["symbol"] == id:
             return [x]
-
+        
+def extract_symbols(arr):
+    slugs = []
+    for x in arr:
+        slugs.append(x["symbol"])
+    return slugs
+        
 
 
 def convert_to_slug(company_name):
