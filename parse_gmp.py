@@ -33,7 +33,7 @@ def get_gmp_timeline(stock):
     try:
         return get_gmp_timeline_from_stock_name(stock)
     except Exception as e:
-        print(f"[DEBUG] ${datetime.now()} Error getting GMP timeline for {stock['symbol']}")
+        print(f"[DEBUG] {datetime.now()} Error getting GMP timeline for {stock['symbol']}")
         print(e)
         return None
 
@@ -41,17 +41,17 @@ def get_gmp_timeline(stock):
 def get_gmp_timeline_from_stock_name(stock):
     data = scrape_page(stock.get('gmpUrl'))
     if not data:
-        print(f"[DEBUG] ${datetime.now()} No Data Error scraping gmp page: {stock['symbol']}")
+        print(f"[DEBUG] {datetime.now()} No Data Error scraping gmp page: {stock['symbol']}")
         return None
     is_error = data.find('h1', class_='elementor-heading-title').text.strip()
     if is_error == '404':
-        print(f"[DEBUG] ${datetime.now()} 404 Error scraping gmp page: {stock['symbol']}")
+        print(f"[DEBUG] {datetime.now()} 404 Error scraping gmp page: {stock['symbol']}")
         return None
 
     table_cont = data.find('figure', class_='wp-block-table')
     table = table_cont.find('tbody')
     if not table:
-        print(f"[DEBUG] ${datetime.now()} No table found Error scraping gmp page: {stock['symbol']}")
+        print(f"[DEBUG] {datetime.now()} No table found Error scraping gmp page: {stock['symbol']}")
         return None
     
     # Initialize an empty list to store the data

@@ -13,7 +13,7 @@ def parse_lot_size(input_string):
         else:
             raise ValueError("Input string does not match the expected format.")
     except ValueError as e:
-        print(f"[DEBUG] ${datetime.now()} Error parsing lot size: ${input_string} {e}")
+        print(f"[DEBUG] {datetime.now()} Error parsing lot size: {input_string} {e}")
         return None, None
     
 def convert_to_iso_format(date_str):
@@ -41,7 +41,7 @@ def convert_to_iso_format(date_str):
         return combined.isoformat()
 
     except Exception as e:
-        print(f"[DEBUG] ${datetime.now()} Error converting to ISO format: ${date_str} {e}")
+        print(f"[DEBUG] {datetime.now()} Error converting to ISO format: {date_str} {e}")
         return None
     
 def process_listing_date(listing_date_str):
@@ -57,7 +57,7 @@ def process_listing_date(listing_date_str):
         # Format the date with time
         return listing_date.strftime("%Y-%m-%dT%H:%M:%S")
     except Exception as e:
-        print(f"[DEBUG] ${datetime.now()} Error parsing listing date: {listing_date_str}",e) 
+        print(f"[DEBUG] {datetime.now()} Error parsing listing date: {listing_date_str}",e) 
         return None
     
 def process_price_range(price_range):
@@ -70,7 +70,7 @@ def process_price_range(price_range):
         max_price = int(prices[-1].strip()) if len(prices) > 1 else min_price
         return min_price, max_price
     except ValueError:
-        print(f"[DEBUG] ${datetime.now()} Error parsing price range: {price_range}")
+        print(f"[DEBUG] {datetime.now()} Error parsing price range: {price_range}")
         return None, None
 
 
@@ -110,7 +110,7 @@ def process_ipo_date(ipo_date):
             
             return parsed_date
         except ValueError:
-            print(f"[DEBUG] ${datetime.now()} Error parsing ipo date: {date_str}")
+            print(f"[DEBUG] {datetime.now()} Error parsing ipo date: {date_str}")
             return None
 
     # Parse end date first (it's usually more complete)

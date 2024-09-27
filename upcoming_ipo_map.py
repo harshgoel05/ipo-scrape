@@ -8,9 +8,9 @@ UPCOMING_IPO = "https://ipowatch.in/upcoming-ipo-calendar-ipo-list/"
 UPCOMING_SME_IPO = "https://ipowatch.in/upcoming-sme-ipo-calendar-list/"
 def ipo_name_to_url_map(url):
     try:
-        print(f"[DEBUG] ${datetime.now()} -- Scraping {url} for IPO data")
+        print(f"[DEBUG] {datetime.now()} -- Scraping {url} for IPO data")
         scraped_data = scrape_page(url)
-        print(f"[DEBUG] ${datetime.now()} -- Scraped {url} for IPO data")
+        print(f"[DEBUG] {datetime.now()} -- Scraped {url} for IPO data")
         tables = scraped_data.find_all('table')  # Find all tables
         ipo_data = []  # Array to store the IPO name and URL objects
 
@@ -28,7 +28,7 @@ def ipo_name_to_url_map(url):
                     ipo_url = first_td.find('a')['href']  # Extract the URL from the <a> tag
                     ipo_data.append({'name': ipo_name, 'url': ipo_url})  # Append as object
 
-        print(f"[DEBUG] ${datetime.now()} -- Returning IPO data for url {url}")
+        print(f"[DEBUG] {datetime.now()} -- Returning IPO data for url {url}")
         return ipo_data
     except Exception as e:
         print(f"Error getting {url} IPO data: {e}")
@@ -36,13 +36,13 @@ def ipo_name_to_url_map(url):
 
 
 def get_gmp_url_for_stocks():
-    print(f"[DEBUG] ${datetime.now()} -- Getting Mainboard GMP URLs for stocks, after sleep 5")
+    print(f"[DEBUG] {datetime.now()} -- Getting Mainboard GMP URLs for stocks, after sleep 5")
     sleep(5)
     upcoming = ipo_name_to_url_map(UPCOMING_IPO)
-    print(f"[DEBUG] ${datetime.now()} -- Getting SME GMP URLs for SME stocks, after sleep 5")
+    print(f"[DEBUG] {datetime.now()} -- Getting SME GMP URLs for SME stocks, after sleep 5")
     sleep(5)
     sme = ipo_name_to_url_map(UPCOMING_SME_IPO)
-    print(f"[DEBUG] ${datetime.now()} -- Returning Mainboard and SME GMP URLs")
+    print(f"[DEBUG] {datetime.now()} -- Returning Mainboard and SME GMP URLs")
     return upcoming + sme
 
 

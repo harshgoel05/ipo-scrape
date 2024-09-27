@@ -12,11 +12,11 @@ def process_stocks_info(stock_data):
     updated_stock_data = []
     for stock in stock_data:
         try:
-            print(f"[DEBUG] ${datetime.now()} Fetching full ipo details for: ${stock['symbol']} after sleep 5")
+            print(f"[DEBUG] {datetime.now()} Fetching full ipo details for: {stock['symbol']} after sleep 5")
             # Find the individual stock data in stock_data using symbol and add to json in stock_details
             sleep(5)
             stock['details'] = get_full_ipo_details(stock)
-            print(f"[DEBUG] ${datetime.now()} Fetching GMP timeline for: ${stock['symbol']} after sleep 5")
+            print(f"[DEBUG] {datetime.now()} Fetching GMP timeline for: {stock['symbol']} after sleep 5")
             sleep(5)
             stock['gmpTimeline'] = get_gmp_timeline(stock)
             updated_stock_data.append(stock)
