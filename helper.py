@@ -1,5 +1,5 @@
 import re
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 
 def parse_lot_size(input_string):
@@ -46,18 +46,24 @@ def convert_to_iso_format(date_str):
     
 def process_listing_date(listing_date_str):
     try:
-        if(listing_date_str.strip() == '–'):
+        if listing_date_str.strip() == '–':
             return None
+        
         # Parse the listing date
         listing_date = datetime.strptime(listing_date_str.strip(), "%d %b %Y")
         
-        # Add the specific time (9am IST)
+        # Add the specific time (9 AM IST)
         listing_date = listing_date.replace(hour=9, minute=0)
         
-        # Format the date with time
-        return listing_date.strftime("%Y-%m-%dT%H:%M:%S")
+        # Make the datetime timezone-aware (IST is UTC+5:30)
+        ist_timezone = timezone(timedelta(hours=5, minutes=30))
+        listing_date = listing_date.replace(tzinfo=ist_timezone)
+        
+        # Format the date with time and timezone offset
+        return listing_date.strftime("%Y-%m-%dT%H:%M:%S%z")[:-2] + ':' + listing_date.strftime("%z")[-2:]
+    
     except Exception as e:
-        print(f"[DEBUG] {datetime.now()} Error parsing listing date: {listing_date_str}",e) 
+        print(f"[DEBUG] {datetime.now()} Error parsing listing date: {listing_date_str}", e) 
         return None
     
 def process_price_range(price_range):
@@ -124,10 +130,13 @@ def process_ipo_date(ipo_date):
         start_date = start_date.replace(hour=10, minute=0)  # 10am IST
     if end_date:
         end_date = end_date.replace(hour=17, minute=0)  # 5pm IST
-    
     # Format dates with times
-    start_date_str = start_date.strftime("%Y-%m-%dT%H:%M:%S") if start_date else None
-    end_date_str = end_date.strftime("%Y-%m-%dT%H:%M:%S") if end_date else None
+    start_date = start_date.replace(tzinfo=timezone(timedelta(hours=5, minutes=30))) if start_date else None
+    end_date = end_date.replace(tzinfo=timezone(timedelta(hours=5, minutes=30))) if end_date else None
+
+    # Format with timezone information
+    start_date_str = start_date.strftime("%Y-%m-%dT%H:%M:%S%z") if start_date else None
+    end_date_str = end_date.strftime("%Y-%m-%dT%H:%M:%S%z") if end_date else None
     
     return start_date_str, end_date_str
 
