@@ -1,0 +1,3121 @@
+[
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Diffusion-300x300.jpg",
+    "link": "https://zerodha.com//ipo/390722/diffusion-engineers",
+    "symbol": "DIFFNKG",
+    "name": "Diffusion Engineers Ltd",
+    "startDate": "2024-09-26T10:00:00",
+    "endDate": "2024-09-30T17:00:00",
+    "listingDate": "2024-10-04T09:00:00",
+    "priceRange": {
+      "min": 159,
+      "max": 168
+    },
+    "slug": "diffusion-engineers",
+    "gmpUrl": "https://ipowatch.in/diffusion-engineers-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "158cr",
+      "sizePerLot": 88,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-30T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-04T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-15T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-30T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-29T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Established in 1982, Diffusion Engineers Limited is engaged in the business of manufacturing welding consumables, wear plates and wear parts, and heavy engineering machinery for core industries like cement, steel, power, mining, engineering, oil & gas, sugar, etc. It provides specialized repairs and reconditioning services for heavy machinery and equipment. Additionally, It is also involved in the trading of anti-wear powders and welding and cutting machinery. It provides a super conditioning process at its manufacturing facilities, a surface treatment solution for machine components that enhances wear resistance, eliminates stress, and improves their repairability ultimately extending their lifespan and reducing production costs. Diffusion Engineers Limited has four manufacturing units located around Nagpur.",
+      "min_investment": 14784,
+      "strengths": [
+        "The company has embarked on a forward integration journey, transitioning from a manufacturer of welding electrodes to producing flux-cored wires, wear plates, and wear parts, and now to heavy engineering, broadening its scope and expertise in the industry.",
+        "The company serves a diverse clientele, which includes both OEMs who service major players in the cement, steel, and power sectors, as well as direct customers. These OEMs, in turn, service major players in their respective industries. This intricate network positions the company as a vital link in the OEM ecosystem of some of the major players in core industries.",
+        "Over the years, The company on a standalone basis has grown from a single product to a multi-product manufacturing company. It has demonstrated consistent growth in terms of revenues and profitability.",
+        "The company\u2019s business operations in Nagpur, Maharashtra, boast a strategic location at the heart of the country as it ensures easy access to industries across the entire country, streamlined logistics for procurement, and timely delivery to its customers."
+      ],
+      "risks": [
+        "The company is increasingly dependent on the domestic market for its sales. Any downturn in the domestic market could dent the company\u2019s market share.",
+        "The company had negative cash flows during certain fiscal years in its operating, investing, and financing activities. Sustained negative cash flows in the future would adversely affect the results of operations and financial condition.",
+        "The company\u2019s business is working capital intensive. Any insufficient cash flows from its operations or inability to borrow to meet its working capital requirements may materially and adversely affect the business.",
+        "Conflict of interest may arise as some of the group companies and subsidiaries are authorized to carry on a similar line of business as the company which may lead to real or potential conflicts of interest for its promoters or directors."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": 90
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": 90
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": 80
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": 75
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": 65
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": 65
+      },
+      {
+        "date": "2024-09-22T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/DRIL-300x230.jpg",
+    "link": "https://zerodha.com//ipo/390707/divyadhan-recycling-industries",
+    "symbol": "DIVYADHAN",
+    "name": "Divyadhan Recycling Industries",
+    "startDate": "2024-09-26T10:00:00",
+    "endDate": "2024-09-30T17:00:00",
+    "listingDate": "2024-10-04T09:00:00",
+    "priceRange": {
+      "min": 60,
+      "max": 64
+    },
+    "slug": "divyadhan-recycling-industries",
+    "gmpUrl": "https://ipowatch.in/divyadhan-recycling-industries-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "24cr",
+      "sizePerLot": 2000,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-30T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-04T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-15T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-30T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-29T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Divyadhan Recycling Industries Limited (DRIL) was established in 2010. It manufactures Recycled Polyester Staple Fibre (R-PSF) and recycled pellets. The company\u2019s primary raw material is recycled post-consumer PET bottles. DRIL began operations in the financial year 2018-19. The company aims to contribute to environmental sustainability by reducing plastic waste through recycling\u200b.",
+      "min_investment": 128000,
+      "strengths": [
+        "Focus on recycling PET bottles and contributing to environmental conservation.",
+        "It operates in the expanding recycled polyester market, which has demand globally.",
+        "It Offers both recycled polyester staple fibre and pellets, catering to diverse industries.",
+        "The company is led by experienced promoters and management, ensuring sound business strategies."
+      ],
+      "risks": [
+        "Relies heavily on the availability of post-consumer PET bottles as raw material.",
+        "The majority of the state-wise revenues from operations come only from Himachal Pradesh.",
+        "Approximately 80% of revenue from operations comes from one customer.",
+        "Certain corporate regulatory filings and records are not traceable as the relevant information is unavailable in the company\u2019s records or on the Ministry of Corporate Affairs\u2019 online portal."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Forge-Auto-International-IPO-GMP-1-1-300x300.webp",
+    "link": "https://zerodha.com//ipo/390588/forge-auto-international",
+    "symbol": "FORGEAUTO",
+    "name": "Forge Auto International",
+    "startDate": "2024-09-26T10:00:00",
+    "endDate": "2024-09-30T17:00:00",
+    "listingDate": "2024-10-04T09:00:00",
+    "priceRange": {
+      "min": 102,
+      "max": 108
+    },
+    "slug": "forge-auto-international",
+    "gmpUrl": "https://ipowatch.in/forge-auto-international-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "31cr",
+      "sizePerLot": 1200,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-30T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-04T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-15T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-30T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-29T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Forge Auto International, founded in 2001, is a reliable manufacturer, Original Equipment Manufacturer (OEM) supplier, and exporter of drop-forged and machined components based in Ludhiana. The company supplies to well-known OEMs such as Sonalika, TAFE, Mahindra & Mahindra, CNH, Tata, Ashok Leyland, Isuzu, and Daimler in India, operating as a Tier 1 and Tier 2 supplier. In addition to serving the Indian market, Forge Auto International exports to countries like Poland, Germany, Denmark, Turkey, Brazil, and other European nations. The company is focused on growing its business by building partnerships with respected organizations.",
+      "min_investment": 129600,
+      "strengths": [
+        "Forge Auto International operates almost debt-free, with a cash conversion cycle of zero days.",
+        "The company prioritizes sustainability, utilizing renewable energy, bio-lubricants, recycled materials, and energy-efficient production practices.",
+        "It holds multiple certifications for quality, environmental management, and occupational health and safety.",
+        "Advanced technology, such as CAD/CAM systems, 3D printing, and forging simulation software, is integrated into its manufacturing"
+      ],
+      "risks": [
+        "Volatility in raw material prices, such as carbon and alloy steel, can affect profitability.",
+        "The auto parts industry is highly competitive, with significant pressure from imports.",
+        "The industry is closely tied to the cyclical nature of the domestic automobile market.",
+        "Risks related to international trade can also pose challenges for companies."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": 40
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": 40
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": 30
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-21T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-20T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Sahasra-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/390868/sahasra-electronics-solutions",
+    "symbol": "SAHASRA",
+    "name": "Sahasra Electronics Solutions",
+    "startDate": "2024-09-26T10:00:00",
+    "endDate": "2024-09-30T17:00:00",
+    "listingDate": "2024-10-04T09:00:00",
+    "priceRange": {
+      "min": 269,
+      "max": 283
+    },
+    "slug": "sahasra-electronics-solutions",
+    "gmpUrl": "https://ipowatch.in/sahasra-electronics-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "186cr",
+      "sizePerLot": 400,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-30T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-04T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-15T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-30T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-29T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Sahasra Electronic Solutions Limited was established in 2000. It is engaged in providing electronics system design and manufacturing (ESDM) services. The company operates through its manufacturing facility located in Noida, Uttar Pradesh, which is equipped with high-speed SMT lines for the assembly of printed circuit boards (PCBs). Sahasra also specializes in box build assembly, LED lighting, IT hardware, and memory products. The company has recently expanded its operations by acquiring Sahasra Semiconductor Private Limited, enhancing its capabilities in semiconductor manufacturing.",
+      "min_investment": 113200,
+      "strengths": [
+        "Sahasra offers a wide range of ESDM solutions, from PCB assembly to box build and IT hardware.",
+        "The company has state-of-the-art manufacturing facilities with modern, high-speed equipment, ensuring quality and efficiency.",
+        "The company\u2019s products are manufactured under strict quality control processes, earning the company EN 9100:2018 certification.",
+        "The leadership and management team bring a wealth of industry experience, contributing to the company\u2019s success."
+      ],
+      "risks": [
+        "A significant portion of the company\u2019s business comes from a few key customers, making it vulnerable to any changes in their purchasing patterns.",
+        "As Sahasra exports a substantial portion of its products, fluctuations in foreign exchange rates could negatively impact profitability.",
+        "The company operates in a highly competitive industry with many international and domestic players, which could affect market share and profitability.",
+        "Global or domestic economic slowdowns, particularly in key export markets like the U.S., could adversely affect the company\u2019s business and financial condition."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": 200
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": 200
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": 190
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": 180
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": 100
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": 100
+      },
+      {
+        "date": "2024-09-21T00:00:00",
+        "price": 45
+      },
+      {
+        "date": "2024-09-20T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Nexxus-petro-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/390940/nexxus-petro-industries",
+    "symbol": "NEXXUS",
+    "name": "Nexxus Petro Industries",
+    "startDate": "2024-09-26T10:00:00",
+    "endDate": "2024-09-30T17:00:00",
+    "listingDate": "2024-10-04T09:00:00",
+    "priceRange": {
+      "min": 105,
+      "max": 105
+    },
+    "slug": "nexxus-petro-industries",
+    "gmpUrl": "https://ipowatch.in/nexxus-petro-industries-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "19cr",
+      "sizePerLot": 1200,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-30T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-04T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-15T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-30T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-29T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Incorporated in 2021, Nexxus Petro Industries is engaged in trading, manufacturing, and selling Petrochem products namely Bitumen products. Bitumen is a sticky, black, and highly viscous liquid or semi-solid form of petroleum, and has various applications across industries like road construction, Waterproofing, Adhesives, Insulation, Paint and coatings, etc. Its product portfolio includes various grades of Bitumen which are classified based on viscosity and related properties of each grade. Presently, the company procures bitumen via imports from Dubai as well as purchases from other domestic importers/sellers in India. It further processes the bitumen procured at its processing units located at Mundra, Gujarat; Pali, Rajasthan; and Bhopal, Madhya Pradesh.",
+      "min_investment": 0,
+      "strengths": [
+        "The company\u2019s diversified locations gives them advantages in terms of economies of scale and proximity to customers. Thus helping them to expand the business in future.",
+        "The company\u2019s business model is scalable as its main product bitumen finds applications in various industries across applications providing them ample opportunities to grow operations, diversify its product portfolio, and add new customers.",
+        "It holds BIS and ISO certifications for its products and processes.",
+        "According to the company, There is tremendous demand for value-added products such as Bitumen Emulsion with the potential to generate higher margins."
+      ],
+      "risks": [
+        "The company\u2019s main product Bitumen is a petrochemical product and is considered hazardous in nature. In the event of any accidents involving any such hazardous materials and substances, It may be held liable for subsequent damages and litigations.",
+        "The company had negative cash flows during certain fiscal years in its operating, and investing, activities. Sustained negative cash flows in the future would adversely affect the results of operations.",
+        "Nearly 41% of the company\u2019s revenue is generated from its top 10 customers. Any loss of one or more such customers, or the deterioration of their financial condition or prospects could adversely affect the business.",
+        "The company operates in a competitive industry dominated by large integrated players.",
+        "Bitumen business is subject to seasonal and other fluctuations that may affect the company\u2019s cash flows and business operations."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Saj-1-300x300.jpg",
+    "link": "https://zerodha.com//ipo/391058/saj-hotels",
+    "symbol": "SAJHOTELS",
+    "name": "Saj Hotels",
+    "startDate": "2024-09-27T10:00:00",
+    "endDate": "2024-10-01T17:00:00",
+    "listingDate": "2024-10-07T09:00:00",
+    "priceRange": {
+      "min": 65,
+      "max": 65
+    },
+    "slug": "saj-hotels",
+    "gmpUrl": "https://ipowatch.in/saj-hotels-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "28cr",
+      "sizePerLot": 2000,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-10-01T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-04T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-04T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-07T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-16T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-11-02T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2025-01-01T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Incorporated in 1981, Saj Hotels is engaged in the hospitality industry. It provides a diverse portfolio of Business-to-Business (B2B), Business-to-Business-to-Customer (B2B2C), and Business-to-Customer (B2C) hospitality offerings, spanning from traditional resort accommodation to villa rentals and restaurant and bar properties. The company has resorts across the following three destinations- Saj on the Mountains, Mahabaleshwar, Saj by the Lake, Malshej, and Saj in the Forest, Pench. They are also developing villas named, \u2018Saj Villas\u2019 in Goa with a curated range of 2BHK and 4BHK options for guests. In addition to its core hospitality offerings, They have also invested (50%) in a company called My Own Rooms Dot In Private Limited which operates a resort named \u2018Morjim Retreat\u2019 in Goa.",
+      "min_investment": 0,
+      "strengths": [
+        "The company\u2019s brand expansion strategy focuses on identifying select markets with untapped tourism potential. By carefully evaluating emerging destinations that align with its values, it aims to introduce exceptional hospitality experiences to new horizons.",
+        "The company\u2019s dynamic pricing strategy allows it to optimize its revenues by capturing the highest possible rates during peak demand periods while offering more competitive pricing during off-peak times to attract cost-conscious travelers.",
+        "The properties are meticulously designed to blend seamlessly with their natural surroundings, utilizing eco-friendly materials and energy-efficient systems.",
+        "The company actively engages with guests on social media platforms to build brand awareness, share promotions, and respond to inquiries and reviews."
+      ],
+      "risks": [
+        "The company has had negative cash flow in the past and may continue to have negative cash flows in the future.",
+        "It requires a significant amount of working capital for continued growth. Any inability to meet its working capital requirements may hurt the company\u2019s results of operations.",
+        "One of its properties is situated in proximity to the Pench National Park and may be subject to regulatory as well as government restrictions which might adversely affect the business and financial position.",
+        "The company has entered into long-term lease deeds with various third parties to receive lease rentals/ license fees for the resort/ restaurant properties. If these agreements are terminated or not renewed, the business may be adversely affected."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-21T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-20T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-19T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/hvax-ipo-300x210.jpg",
+    "link": "https://zerodha.com//ipo/391065/hvax-technologies",
+    "symbol": "HVAX",
+    "name": "HVAX Technologies",
+    "startDate": "2024-09-27T10:00:00",
+    "endDate": "2024-10-01T17:00:00",
+    "listingDate": "2024-10-07T09:00:00",
+    "priceRange": {
+      "min": 435,
+      "max": 458
+    },
+    "slug": "hvax-technologies",
+    "gmpUrl": "https://ipowatch.in/hvax-technologies-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "34cr",
+      "sizePerLot": 300,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-10-01T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-04T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-04T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-07T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-16T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-11-02T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2025-01-01T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "HVAX Technologies Limited, originally incorporated as a private company in 2010, became a public limited company in January 2024. Specializing in turnkey projects, the company focuses on engineering, procurement, and execution of controlled environment infrastructure and cleanrooms, mainly serving the pharmaceutical, healthcare, chemical, and FMCG sectors. It provides design, consultancy, and end-to-end solutions, including the supply of cleanroom equipment and systems. Since its inception, HVAX has completed around 200 projects across India and 15 countries. For FY 2024, the company executed 53 projects and holds an order book of \u20b915,364.47 lakhs. The company employs 125 permanent staff and is led by founders Nirbhaynarayan Singh and Prayagdatt Mishra, who have over 20 years of industry experience.",
+      "min_investment": 137400,
+      "strengths": [
+        "Experienced promoters and management driving growth with industry expertise.",
+        "Effective cost management and timely project completion within budget.",
+        "Robust order book of \u20b915,364.47 lakhs, showing growth and quality projects",
+        "Efficient supply chain benefiting from economies of scale.",
+        "Net worth of \u20b93,059.83 lakhs (March 31, 2024) supports large project bidding."
+      ],
+      "risks": [
+        "Reliance on a few large customers could impact revenue if any are lost.",
+        "Dependency on key suppliers risks operational disruption if lost.",
+        "Liability for contract labor wages if contractors default could affect cash flow.",
+        "Warehouse operations could be disrupted if lease agreements are not renewed.",
+        "Unsecured loans repayable on demand may strain cash flow if called in."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Subam-300x300.jpg",
+    "link": "https://zerodha.com//ipo/391354/subam-papers",
+    "symbol": "SUBAM",
+    "name": "Subam Papers",
+    "startDate": "2024-09-30T10:00:00",
+    "endDate": "2024-10-03T17:00:00",
+    "listingDate": "2024-10-08T09:00:00",
+    "priceRange": {
+      "min": 144,
+      "max": 152
+    },
+    "slug": "subam-papers",
+    "gmpUrl": "https://ipowatch.in/subam-papers-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "94cr",
+      "sizePerLot": 800,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-10-03T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-10-04T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-07T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-07T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-08T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-18T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-11-03T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2025-01-02T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Established in 2004, Subam Papers is engaged in the manufacturing of Kraft paper, Duplex board, and Paper products. Unlike traditional paper manufacturers, It does not manufacture the products from wood pulp but instead uses waste paper as its raw material. They use renewable energy through their own wind and solar power installations to minimize the environmental impact. In the financial year ending on March 31, 2024, the installed capacity for Kraft Paper was 300 metric tons per day (MTPD), resulting in a total annual capacity of 93,600 tons. For the Duplex board, the installed capacity was 140 MTPD, translating to an annual capacity of 47,200 tons. The company is located at Tirunelveli, Tamil Nadu, and is also in proximity to the Harbor city of Tuticorin, Tamil Nadu. The company\u2019s products are used in various industries, including automobiles, textiles, FMCG, food, distilleries, pharmaceuticals, electrical and electronics, printing, and more, where packaging is indispensable.",
+      "min_investment": 121600,
+      "strengths": [
+        "The company recycles paper waste and provides sustainable packaging solutions. By opting to recycle one ton of paper, It collectively saves the equivalent of 17 trees, conserving precious forests and promoting biodiversity. Furthermore, conserving 7,000 gallons of water and sparing 380 gallons of oil highlights the resource efficiency achieved through recycling.",
+        "The company has invested in water pumping stations and connecting fully operational pipelines, ensuring efficient water distribution throughout the facility. Moreover, THe factory\u2019s strategic location offers a distinct advantage, with the Thamirabarani River situated within a mere 6 km proximity.",
+        "Subam\u2019s unique advantage of producing a wide range of paper grades all on one campus creates substantial demand in the market for its products.",
+        "It operates on a robust B2B business model, catering to a vast network of over 1200 customers over the past two decades. The business strategy mitigates credit risks by ensuring that no single customer accounts for more than 5% of its total sales."
+      ],
+      "risks": [
+        "Wastepaper is the primary raw material for its manufacturing process, and its non-availability or price increases can significantly impact the financial performance. In the financial year 2022-2023, The company\u2019s performance was severely affected due to raw material shortages.",
+        "The company conducts its business activities on a purchase-order basis and has not entered into long-term agreements with its customers.",
+        "It is exposed to counterparty credit risk and any delay in receiving payments or non-receipt of payments may adversely impact the results of operations.",
+        "It generates a major portion of sales in certain geographical regions, especially Tamil Nadu. Any adverse developments affecting the operations in these regions could adversely impact the business."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Paramount-Dye-Tec-IPO-GMP-1-300x300.webp",
+    "link": "https://zerodha.com//ipo/391498/paramount-dye-tec",
+    "symbol": "PARAMOUNT",
+    "name": "Paramount Dye Tec",
+    "startDate": "2024-09-30T10:00:00",
+    "endDate": "2024-10-03T17:00:00",
+    "listingDate": "2024-10-08T09:00:00",
+    "priceRange": {
+      "min": 111,
+      "max": 117
+    },
+    "slug": "paramount-dye-tec",
+    "gmpUrl": "https://ipowatch.in/paramount-dye-tec-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "28cr",
+      "sizePerLot": 1200,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-10-03T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-10-04T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-07T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-07T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-08T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-18T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-11-03T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2025-01-02T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Paramount Dye Tec Limited, established in 2014, manufactures yarns by recycling synthetic waste fibers for the B2B textile industry. The company offers a variety of synthetic fibers and yarns, including acrylic, polyester, nylon, wool, and acrylic blends. It operates two manufacturing facilities in Punjab, following ISO 9001:2015 and Good Manufacturing Practice (GMP) standards. The company also trades acrylic cloth and various yarn products, using established production practices.",
+      "min_investment": 140400,
+      "strengths": [
+        "Uses recycled synthetic waste to produce high-quality yarn and fiber, promoting environmental responsibility and cost-efficiency.",
+        "Cost-efficient production methods result in margin benefits, allowing for competitive pricing.",
+        "The increased spinning capacity allows for the efficient use of in-house produced fiber, improving profitability.",
+        "The company\u2019s integrated fiber and yarn production simplifies the supply chain, reducing customer lead times.",
+        "Products are cost-effective, helping customers lower their production costs without compromising quality."
+      ],
+      "risks": [
+        "The company\u2019s reliance on a single business segment for revenue exposes it to risks related to market demand, competition, and raw material availability.",
+        "Dependency on a few suppliers poses risks of supply disruptions, which could impact business operations and revenue.",
+        "Failure to meet contractual performance standards could result in business loss, reputational damage, or financial penalties.",
+        "Fluctuations in raw material prices or shortages may increase production costs, impacting profitability if costs can\u2019t be passed on to customers.",
+        "Delayed or missed payments from clients could strain cash flow, affecting operations and growth plans."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/06/hyundai-ipo-300x300.jpg",
+    "link": "https://zerodha.com//ipo/381489/hyundai-motor-india",
+    "symbol": "HYUNDAI",
+    "name": "Hyundai Motor India",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "hyundai-motor-india",
+    "gmpUrl": "https://ipowatch.in/hyundai-motor-india-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "The Hyundai IPO could be the largest in Indian history! /n Hyundai Motor India, a subsidiary of the Korea-based Hyundai Group, was established in 1996. The company specializes in manufacturing and selling a wide range of four-wheeler passenger vehicles, including sedans, hatchbacks, SUVs, and electric vehicles (EVs). Additionally, Hyundai produces key automotive parts such as transmissions and engines. /n Currently, Hyundai\u2019s lineup includes 13 models, ranging from sedans and hatchbacks to SUVs. In FY 2024, Hyundai captured approximately 15% of the domestic car market, securing the second position behind Maruti Suzuki. As of December 31, 2023, Hyundai Motor India boasted 1,366 sales outlets and 1,550 service centres across various cities and towns in India. This marked a significant expansion from March 31, 2021, when the company operated 1,167 sales outlets and 1,307 service centres. /n 4 million! That\u2019s how many cars Indians bought in 2023. In fact, we\u2019re the third-biggest car market globally, trailing only China and the US. With electric vehicles gaining popularity, experts predict India will have 2.5 million EVs on the roads by 2025, making us the third-largest EV market as well. Automakers are closely watching these developments and are eager to jump on this trend. /n Take Hyundai India, for instance. Despite being a subsidiary of South Korea\u2019s Hyundai Motor Company, it has a rich history in the country. Hyundai India became a household name by manufacturing locally, overcoming early competition, and innovating for the Indian market. Now, they plan to take it further by raising a whopping \u20b925,000 crores through an IPO, potentially breaking previous IPO records held by LIC and PayTM. /n But wait\u2026 If Hyundai is a foreign brand, why pursue an IPO in the Indian market, you ask?",
+      "min_investment": null,
+      "strengths": [
+        "World\u2019s third-largest auto Original Equipment Manufacturer (OEM) by passenger vehicle sales in 2023.",
+        "Sold nearly 12 million passenger vehicles in India and through exports from 1998 to March 31, 2024.",
+        "Second-largest auto Original Equipment Manufacturer (OEM) in the Indian market since 2009 (domestic sales volumes).",
+        "India\u2019s largest exporter of passenger vehicles from 2005 to the first 11 months of 2024, with the highest cumulative exports for this period."
+      ],
+      "risks": [
+        "Kia Corporation and Kia India Pvt Ltd owned by Hyundai also operate in a similar domain, which could lead to conflicts of interest.",
+        "Centralized at the Chennai plant; disruptions, including at the upcoming Talegaon plant (operational in H2 Fiscal 2026), could impact operations and financial health.",
+        "Significant revenue depends on SUV sales; declines in demand or production issues could negatively affect operations.",
+        "Operations are subject to seasonal fluctuations, which impact sales and financial performance. Demand typically peaks in January-March and during the festive season, with slowdowns in April-July and December.",
+        "Changes in tax laws could negatively affect business prospects, financial standing, operational outcomes, and cash flows."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Swiggy-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/389561/swiggy",
+    "symbol": "SWIGGY",
+    "name": "Swiggy",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "swiggy",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Swiggy Limited, founded in 2014, is a leading online platform for food and grocery delivery in India. /n Initially launched as a food delivery startup, Swiggy quickly grew into a major player in the market. Now, it offers a variety of services, including food delivery, quick commerce, and local delivery options. Through its fast-delivery service, Instamart, Swiggy has positioned itself as a leader, competing closely with other big companies like Blinkit and Zepto. /n \u00a0",
+      "min_investment": null,
+      "strengths": [
+        "Swiggy\u2019s operating revenue increased 36% year on year for FY24, reaching \u20b911,247 crore. Additionally, the company successfully reduced its losses by 44% to \u20b92,350 crore during the same period.",
+        "Swiggy has an employee base of over 5000, alongside a fleet of more than 200,000 delivery executives, ensuring smooth and efficient operations.",
+        "The company has diversified its offerings through platforms like Instamart (quick grocery delivery) and Swiggy Genie (pick-up and drop services), expanding its reach into non-food verticals.",
+        "The company operates in over 500 cities across India, making it a dominant player in various geographic locations.",
+        "Swiggy uses machine learning algorithms to deliver a more seamless and improved user experience."
+      ],
+      "risks": [
+        "Swiggy has faced consistent net losses and negative cash flows since inception. Despite revenue growth from services like Food Delivery and Quick Commerce, high costs such as advertising and delivery pose ongoing challenges.",
+        "Swiggy\u2019s success relies on cost-effective user acquisition and retention. Changes in preferences or competitor offers could reduce its user base, affecting revenue.",
+        "Retaining restaurant and merchant partners is crucial. If partners increase prices or switch to competitors, order volumes may decline.",
+        "Effective management of Dark Stores is vital for Quick Commerce. Poor management could disrupt services, raise costs, and lower user satisfaction.",
+        "Potential changes in government regulations for the e-commerce and food delivery sectors could threaten Swiggy\u2019s demand and overall business model."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Zepto-IPO-300x300.png",
+    "link": "https://zerodha.com//ipo/391072/zepto",
+    "symbol": "ZEPTO",
+    "name": "Zepto",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "zepto",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Zepto, the fast-growing quick commerce company founded in 2020, has been making waves in the grocery delivery space. It was established by Aadit Palicha and Kaivalya Vohra, who both dropped out of Stanford University to launch this venture during the pandemic. Zepto\u2019s main appeal lies in its ability to deliver groceries and essentials in under 10 minutes, a model that has attracted significant investor interest. /n While Swiggy\u2019s Instamart was the first to start quick commerce, Zepto quickly captured consumer attention and market share. Despite entering the market after competitors like Swiggy, Zepto has swiftly captured market share, with plans to expand into 40-50 cities. Its rapid adoption rate is a key differentiator. /n Zepto has raised $1.6 billion across nine funding rounds from 52 investors, including big names like General Catalyst, StepStone Group, and Lightspeed Venture Partners. As of its latest funding round in August 2024, Zepto was valued at $5 billion. This sharp rise in valuation reflects the strong backing it has received, even during a challenging \u201cfunding winter\u201d in the tech world. /n Unlike competitors such as Blinkit, which is backed by Zomato, and Instamart (Swiggy), Zepto is the only major quick commerce player funded purely by financial investors. /n In terms of sales, Zepto has been gaining traction, with a Gross Merchandise Value (GMV) of $1.5 billion as of July 2024. The company operates a network of dark stores\u2014micro-warehouses strategically located in high-demand areas to facilitate its lightning-fast deliveries. As of August 2024, Zepto was processing approximately 650,000 orders per day and aimed to ramp up this number to 900,000 during the festive season. /n Its average order value (AOV) has also increased steadily, contributing to rising revenues. In FY23, Zepto reported operating revenues of \u20b92,024 crore but incurred a net loss of \u20b91,272 crore, highlighting the challenges in making the quick commerce model profitable. /n Zepto aims to break even by the September 2024 quarter, as its EBITDA margins move towards positive territory. Each dark store processes up to 2,000 orders per day, and new dark stores are reportedly reaching profitability within 9 months, which is a significant improvement. /n Zepto plans to expand beyond groceries into higher-value categories like electronics and home goods, which could help boost its gross sales and profit margins. However, despite its rapid growth and consumer adoption, profitability remains elusive\u2014a challenge faced by most players in the quick commerce space globally. /n Despite this rapid expansion, however, quick commerce has only captured a modest 7% of the potential market, with a total addressable market (TAM) estimated at $45 billion.",
+      "min_investment": null,
+      "strengths": [],
+      "risks": []
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/NTPC-Green-ipo-300x300.jpg",
+    "link": "https://zerodha.com//ipo/390466/ntpc-green-energy",
+    "symbol": "NTPCGREEN",
+    "name": "NTPC Green Energy",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "ntpc-green-energy",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Incorporated in 2022, NTPC Green Energy is a wholly-owned subsidiary of NTPC Limited, a \u2018Maharatna\u2019 central public sector enterprise. Its renewable energy portfolio encompasses both solar and wind power assets with a presence across multiple locations in more than six states. Its operational capacity was 3,071 MW of solar projects and 100 MW of wind projects as of August 31, 2024. The company\u2019s projects generate renewable power and feed that power into the grid, supplying a utility or off-taker with energy. For its operational projects, It has entered into long-term Power Purchase Agreements (PPAs) or Letters of Award (LoAs) with off-takers like government agencies and public utilities. The company aims to add around 60 GW of renewable capacity by 2032, nearly 15% of the country\u2019s capacity.",
+      "min_investment": null,
+      "strengths": [
+        "The company is among the top 10 renewable energy players in India in terms of operational capacity as of June 30, 2024.",
+        "It is promoted by NTPC Limited, which has extensive experience in executing large-scale projects, long-term relationships with off-takers and suppliers and financial strength.",
+        "It has a Portfolio of 14,696 MWs of solar and wind projects as of June 30, 2024, with diversification across geographies and off-takers. As of June 30, 2024, the company had 15 off-takers across 37 solar projects and 9 wind projects.",
+        "The company\u2019s growing revenues along with strong credit ratings enable them to have a low cost of capital employed.",
+        "It is the largest renewable energy public sector enterprise (excluding hydro) in terms of operating capacity as of June 30, 2024, and power generation in Fiscal 2024."
+      ],
+      "risks": [
+        "The renewable energy project construction activities may be subject to cost overruns or delays which may adversely affect the business, results of operations, financial condition, and cash flows.",
+        "The company\u2019s operating renewable energy projects are concentrated in Rajasthan. Any significant social, political, economic, or seasonal disruption, natural calamities, or civil disruptions in Rajasthan could hurt the business.",
+        "Any inability to collect receivables in time or at all from its utility off-takers may adversely affect the business, operations, and financial condition.",
+        "The company has substantial capital expenditure requirements and may require additional financing to meet those requirements, which could adversely affect the financial condition.",
+        "There is a concentrated pool of utilities and power purchasers for electricity generated by the company\u2019s plants and projects with more than 87% of its revenue from operations from the top five off-takers in Fiscal 2024, with the single largest off-taker contributing around 50% of the revenue from operations in Fiscal 2024."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/ather-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/390401/ather-energy",
+    "symbol": "ATHER",
+    "name": "Ather Energy",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "ather-energy",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Ather Energy was established in 2013. It is an EV company that focuses on designing and developing electric two-wheelers (E2W), battery packs, and charging infrastructure from the ground up in India. Currently, Ather\u2019s lineup includes two models, the Ather 450 and the Ather Rizta, comprising seven variants. In FY 2024, Ather captured approximately 11.5% of the market with sales of 1,09,577 E2Ws, securing the third position behind Ola Electric and TVS Motor Company. As of March 31st 2024, Ather has 208 experience centres and 191 service centres in India, and 3 experience centres and 1 service centre in Nepal. To be eligible for the shareholder quota, Hero MotoCorp\u2019s shares must be held as of the RHP filing date.",
+      "min_investment": null,
+      "strengths": [
+        "Strong in-house R&D capabilities have allowed the company to be the first in India to provide features such as a touchscreen dashboard, trip planner, and internet connectivity.",
+        "The company\u2019s focus on quality helps them sell their products at a premium.",
+        "Ather is strong in the performance scooter market, has started offering convenience scooters, and is working on developing a motorcycle platform.",
+        "Ather has expanded its manufacturing facility from 21,300 E2Ws per year in 2021 to 2,66,850 E2Ws per year in 2024."
+      ],
+      "risks": [
+        "Negative cash flows from operations since incorporation.",
+        "Only 2 products are on offer with heavy dependency on the sale of the Ather 450X. A decrease in sales of this model will adversely affect the company.",
+        "The FAME subsidy influenced Ather\u2019s retail prices, which have now been replaced by the EMPS subsidy. There\u2019s no guarantee that this new scheme will be extended or replaced.",
+        "The company is highly dependent on its key management. Any change in management may affect the company."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/boAt-300x300.png",
+    "link": "https://zerodha.com//ipo/390366/boat",
+    "symbol": "BOAT",
+    "name": "BOAT",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "boat",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Boat, incorporated in 2013, as Imagine Marketing Limited is a widely known consumer electronics brand. The company specializes in audio products, wearables, and mobile accessories, positioning itself as one of the leaders in the Indian consumer electronics market. Its innovative marketing strategies and focus on affordability have contributed to its growth and popularity among young consumers.",
+      "min_investment": null,
+      "strengths": [
+        "BoAt has established itself as a trusted brand in the Indian market, particularly among millennials and Gen Z consumers.",
+        "The company offers a wide array of products, including headphones, speakers, smartwatches, and other mobile accessories, catering to various consumer needs.",
+        "Imagine Marketing has developed an extensive distribution network across both online and offline channels, enhancing product accessibility.",
+        "The company emphasizes innovative design and technology in its products, which helps maintain competitive differentiation.",
+        "With the increasing penetration of smartphones and the rise of digital content consumption in India, the demand for audio and wearable devices is on the rise."
+      ],
+      "risks": [
+        "The consumer electronics market is highly competitive with numerous established players and new entrants, which may affect market share.",
+        "The company heavily depends on its flagship brand, boAt. Any negative publicity about the brand will affect the company.",
+        "The company\u2019s reliance on external suppliers from China and Vietnam for components can disrupt supply chains.",
+        "Fluctuations in consumer preferences and economic conditions can impact sales performance.",
+        "Revenues depend substantially on the e-commerce industry and its ability to respond effectively to changing user behavior on digital platforms."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Waaree-300x300.jpg",
+    "link": "https://zerodha.com//ipo/390787/waaree-energies",
+    "symbol": "WAAREEENERGY",
+    "name": "Waaree Energies",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "waaree-energies",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Founded in 1989, Waaree Energies is engaged in solar panel manufacturing and providing complete solar EPC solutions, having commissioned 1+ GW of solar EPC projects. It has a wide range of innovative products, including solar inverters, lithium-ion batteries for energy storage with a production capacity of 400MWh, solar thermal, and Solar & Industrial cables. The company is also aiming to be vertically integrated company with cell manufacturing. It has recently acquired Indo Solar and expanding its cell manufacturing to 5.4 GW. It has a strong presence in providing solar rooftops and solar water pumping solutions. The company has significantly expanded its aggregate installed capacity from 2 GW in Fiscal 2021 to 9 GW, as of March 31, 2023, which further increased to 12 GW as of June 30, 2023. As of June 30, 2023, The company is operating four manufacturing facilities in Surat, Tumb, Nandigram and Chikhli in Gujarat spread over an area of 136.30 acres.",
+      "min_investment": null,
+      "strengths": [
+        "The company is the largest manufacturer of solar PV modules in India with the largest aggregate installed capacity of 12 GW, as of June 30, 2023. It is well-positioned to capture industry tailwinds and growth prospects for solar energy in India and globally.",
+        "It has a diversified base of global and Indian customers with a substantial order book.",
+        "The company\u2019s manufacturing facilities include NABL- accredited laboratory and automated production lines. Its automated production lines follow strict process control guidelines and international industry standards and practices.",
+        "The company has a pan-India retail network consisting of franchisees. As of March 31, 2021, 2022, and 2023, and as of June 30, 2023, The retail network consisted of 290, 373, 253 and 284 franchisees across India, respectively."
+      ],
+      "risks": [
+        "The company is dependent on its top 10 customers for nearly 40% of its revenues. The loss of any of these customers could have a material adverse effect on the business.",
+        "Export sales make its operations subject to risks and uncertainties of various international markets, in particular the United States.",
+        "The company\u2019s projects are dependent on various government subsidies. In the event such subsidies do not materialize or the state or central government does not approve the entire subsidy amount, It may have to raise additional capital, which may materially impact its cash flows.",
+        "It derives 40% of its domestic retail sales from Gujarat and 85% from its top 5 states. Any adverse change in the demand in Gujarat or other states may hurt the business.",
+        "Restrictions on import duties relating to materials and equipment imported for its manufacturing operations as well as restrictions on or import duties levied on its products in the export markets may adversely affect the business prospects."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/06/Blackbuck-ipo-2-300x300.jpg",
+    "link": "https://zerodha.com//ipo/383541/blackbuck",
+    "symbol": "BLACKBUCK",
+    "name": "Blackbuck",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "blackbuck",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Incorporated in 2015, Zinka Logistics Solutions, popularly known as Blackbuck, is India\u2019s largest digital platform for truck operators. In Fiscal 2024, the platform saw nearly a million truck operators transact, which represents over 27.52% of all truck operators in India. /n The company\u2019s product offerings are as follows: /n The company employs an omnichannel approach to customer onboarding and servicing that utilizes India\u2019s most comprehensive physical network. By March 31, 2024, the products had been sold and serviced in 628 districts, constituting 80% of India\u2019s districts. This includes all major transportation hubs and 75% of the toll plaza network in India. The company has a digitally enabled network of 9,395 touchpoints for onboarding and servicing activities. /n *All figures except EPS are in \u20b9 crores",
+      "min_investment": null,
+      "strengths": [
+        "Leading digital platform in India: As India\u2019s top digital platform for truck operators in terms of user numbers, the company leverages its leading market position to capitalize on the huge potential for digital transformation in India\u2019s fragmented trucking industry.",
+        "Extensive network yields high customer retention and monetization: Having built a nationwide network of truck operators over nine years through digital campaigns, telemarketing, and on-ground teams, the company has expanded its annual transacting truck operators base to 963,345 in Fiscal 2024 from 482,446 in Fiscal 2022. As the platform attracts more operators, its appeal to potential partners grows due to its extensive reach.",
+        "High-growth business with operating leverage and strong unit economics: The company\u2019s asset-light business model is based on offering services to truck operators, and generating revenue through platform fees, subscription fees, and commissions. It neither takes any inventory risk nor owns trucks on its balance sheet, and mainly distributes loans through its financial partners."
+      ],
+      "risks": [
+        "Revenue dependence on specific offerings: The company heavily depends on its payments and telematics offerings which contributed 94.53% of its total revenue in Fiscal 2024. Any negative occurrences linked to these offerings could drastically impact the company\u2019s business and financial status.",
+        "Telecommunications and IT system dependence: The company\u2019s operations extensively rely on telecommunications and IT systems. Disruptions in these systems and infrastructure could negatively affect its ability to provide products efficiently and operate its platform.",
+        "Historical losses and negative cashflows: Both the company and its subsidiary TZF Logistics Solutions have previously experienced losses and negative operating cash flows. Its other subsidiary, BlackBuck Finserve, has also seen negative cash flows in the past"
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/paras-healthcare-ipo-1-300x300.jpeg",
+    "link": "https://zerodha.com//ipo/391204/paras-healthcare",
+    "symbol": "PARASHCL",
+    "name": "Paras Healthcare",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "paras-healthcare",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Paras Health is the fifth largest healthcare provider by bed capacity in North India, Bihar, and Jharkhand, with 2,135 beds across eight hospitals as of March 31, 2024. Focused on providing specialized tertiary care in Tier 2 and 3 cities, Paras Health offers clinical specialties like cardiac sciences, oncology, and orthopedics. With 18 years of experience, the company has an asset-light business model, successfully expanding into underserved markets. It has plans to increase bed capacity to 2,935 by 2029 through new hospitals in Gurugram and Ludhiana. Paras Health also invests in digital healthcare solutions.",
+      "min_investment": null,
+      "strengths": [
+        "One of the largest healthcare providers in underserved markets of North India, with a first-mover advantage in key regions.",
+        "Asset-light business model focused on driving patient access and operational performance.",
+        "Strong ability to attract and retain renowned clinicians, delivering high-quality clinical care.",
+        "Diversified operations across multiple clinical specialties, payor mix, and geographic locations.",
+        "Robust infrastructure with advanced information technology systems and modern medical equipment.",
+        "Doctor-led professional management team with proven execution capabilities and deep industry expertise."
+      ],
+      "risks": [
+        "Incurred significant losses in recent years with no guarantee of future profitability.",
+        "Reliant on attracting and retaining skilled healthcare professionals to maintain operations.",
+        "Regulatory changes and pharmaceutical pricing uncertainties could harm financial performance.",
+        "Dependence on in-patient revenue and occupancy rates affects profitability.",
+        "Non-exclusive doctor arrangements risk disruption if key doctors leave.",
+        "Non-compliance with regulations could severely impact business and finances."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Avax_Logo-1-300x300.png",
+    "link": "https://zerodha.com//ipo/390321/avax-apparels-and-ornaments",
+    "symbol": "AVAX",
+    "name": "Avax Apparels And Ornaments",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "avax-apparels-and-ornaments",
+    "gmpUrl": "https://ipowatch.in/avax-apparels-and-ornaments-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "2cr",
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Avax Apparels And Ornaments Limited, incorporated in June 2005, is engaged in wholesale trading of knitted fabric and online retail of silver ornaments. The company supplies knitted fabric to readymade garment manufacturers and has recently invested in machinery to begin manufacturing its own knitted cloth. It also offers a range of silver jewellery, including rings, payals, kadas, bangles, and other items, with distribution across major cities in India.",
+      "min_investment": null,
+      "strengths": [
+        "Strong network and connections with key players in the sector, providing strategic advantages.",
+        "Strategic locational advantage, enabling efficient operations and cost-effective logistics.",
+        "Excellent customer relations, ensuring high levels of satisfaction and repeat business."
+      ],
+      "risks": [
+        "The company may eventually focus solely on its textile business, with minimal contribution from the silver ornaments segment.",
+        "Seasonal demand fluctuations for silver ornaments and knitted fabric could affect the company\u2019s revenue during peak seasons.",
+        "Consumer discretionary spending influences silver ornaments purchasing, which may decline during economic downturns.",
+        "The company\u2019s brand and reputation could be negatively impacted by issues with vendors, counterfeit products, or negative publicity.",
+        "The absence of long-term contracts with suppliers and customers creates uncertainty in securing repeat business."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-21T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-20T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-19T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-18T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-17T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-16T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/asasasrubi-1-300x300.png",
+    "link": "https://zerodha.com//ipo/391199/rubicon-research",
+    "symbol": "RUBICON",
+    "name": "Rubicon Research",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "rubicon-research",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Rubicon Research Limited, established in 1999, is a pharmaceutical formulation company focused on innovation through research and development, with a strong presence in regulated markets, particularly the United States.The company operates two R&D facilities inspected by the USFDA (United States Food and Drug Administration) in India and Canada, along with two manufacturing plants in India. It holds accreditations from global regulatory bodies like the USFDA, WHO-GMP (World Health Organization \u2013 Good Manufacturing Practices), and Health Canada. Rubicon\u2019s portfolio includes 55 commercialized formulations in the U.S., highlighting its focus on regulated markets.",
+      "min_investment": null,
+      "strengths": [
+        "Holds a strong portfolio of commercialised products, maintaining a market share of over 25% for seven products in the US market.",
+        "R&D capabilities in India and Canada enable product innovation and development, reducing reliance on third parties.",
+        "Established US sales and distribution platform through subsidiaries, covering both non-branded and branded product markets.",
+        "Demonstrates regulatory compliance with US FDA inspections and approvals from international bodies."
+      ],
+      "risks": [
+        "The company heavily relies on the US market, making it vulnerable to adverse developments in that region.",
+        "Operating in a highly regulated industry, any product recalls, inspection failures, or facility shutdowns could negatively impact operations.",
+        "R&D efforts may not always lead to successful marketable products, posing risks to revenue growth.",
+        "Intense competition within the pharmaceutical industry may affect margins and hinder future growth prospects.",
+        "Fluctuations in foreign currency exchange rates could negatively impact the company\u2019s financial performance.",
+        "Debt agreements, including unsecured loans, impose restrictive covenants, and any non-compliance could lead to accelerated repayment obligations."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Stallion-300x77.jpg",
+    "link": "https://zerodha.com//ipo/391389/stallion-india-fluorochemicals",
+    "symbol": "STALLION",
+    "name": "Stallion India Fluorochemicals",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "stallion-india-fluorochemicals",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Stallion India Fluorochemicals was established in 2002 and specializes in fluorochemical gases and focuses on environmentally sustainable products. It also operates in industries such as air conditioners, fire fighting, semiconductor manufacturing, automobile manufacturing, pharma and medicals, glass bottle manufacturing, aerosols and spray foam. The company is focused on expanding its product portfolio, including adding new products in the refrigerant and gas sectors.\u00a0",
+      "min_investment": null,
+      "strengths": [
+        "Expertise in fluorochemicals and specialty gases, with strong knowledge in the chemical domain.",
+        "High entry barriers due to the specialized technology and infrastructure needed, limiting new competitors.",
+        "Compliance with strict safety and environmental regulations ensures responsible business operations.",
+        "The company operates 4 plants, which have been selected to optimize logistical efficiency and seamless production processes.",
+        "Strong market recognition due to its long-standing experience and reputation in the refrigerant gases industry."
+      ],
+      "risks": [
+        "The revenue from operations depends significantly on one product.",
+        "Revenue is also dependent on seasonal changes. A significant portion of their turnover is concentrated in February to May.",
+        "The company does not have long-term agreements with their customers.",
+        "Advanced technologies used in production and purification processes carry technological risks, which may lead to operational disruptions and safety issues.",
+        "Regulatory compliance risks, where failure to meet stringent environmental and safety standards could lead to operational and reputational damage\u200b"
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/niva-bupa-ipo-1-300x300.jpg",
+    "link": "https://zerodha.com//ipo/391191/niva-bupa-health-insurance-company",
+    "symbol": "NBHIC",
+    "name": "Niva Bupa Health Insurance Company",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "niva-bupa-health-insurance-company",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Niva Bupa Health Insurance Company Limited is one of India\u2019s largest and fastest-growing health insurers, with a notable overall health GDPI of \u20b954,944.28 million in Fiscal 2024. Over the past two years, its growth has significantly outpaced the industry average, with a CAGR of 41.37% in health gross direct premium income (GDPI). Leveraging its \u2018Niva Bupa Health\u2019 mobile app and website, the company provides a comprehensive health ecosystem, including diagnostics, digital consultations, and policy management.\u00a0 /n It is backed by the Bupa Group, giving it access to international expertise. The company employs a data-driven Lifetime value (LTV)-based approach to customer management and maintains a diversified distribution network, including direct sales and intermediaries. It also emphasizes digital integration and has a high claims settlement ratio, with a substantial network of hospitals. The company has shown impressive growth in its Gross Written Premium (GWP) and maintains a focus on customer satisfaction and retention through extensive service and technology integration.",
+      "min_investment": null,
+      "strengths": [
+        "Focus on GWP growth, capital efficiency, and profitability.",
+        "Diverse product suite with a strong innovation track record.",
+        "Technology-driven automated customer servicing.",
+        "Bupa brand backing and expertise in health insurance.",
+        "Multi-channel distribution with tech-enabled partner empowerment."
+      ],
+      "risks": [
+        "Inaccurate pricing or underwriting risks could hurt profitability.",
+        "Dependence on health insurance makes the company vulnerable to market shifts.",
+        "Poor relationships with hospitals may affect cashless claims and costs.",
+        "Delayed claims payments could lead to customer dissatisfaction and penalties.",
+        "Brand or reputation damage, including Bupa\u2019s, may impact business performance."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/fab-india-ipo-300x300.jpeg",
+    "link": "https://zerodha.com//ipo/391188/fabindia",
+    "symbol": "FABINDIA",
+    "name": "FabIndia",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "fabindia",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Fabindia Private Limited, founded in 1960, is India\u2019s largest private platform for products crafted using traditional techniques and hand-based processes. By connecting thousands of rural artisans to urban markets, the brand fosters sustainable employment while preserving India\u2019s rich handicraft heritage. Known for its natural, artisan-based, and affordable products, Fabindia offers a wide range of clothing, home decor, and organic foods that blend tradition with contemporary design.",
+      "min_investment": null,
+      "strengths": [
+        "Fabindia has a strong brand in the ethnic and handicraft retail market with over 360 stores, giving it a well-established market position.",
+        "The company has diversified its revenue by including more products from Organic India (herbal and ayurvedic items), which has helped its growth.",
+        "Fabindia\u2019s core operations (excluding subsidiaries) are efficient, with healthy profit margins expected to improve through cost-saving measures and a well-managed supply chain.",
+        "Despite current debt challenges, the company has a strong financial base and plans to raise funds through private investors to improve its financial position.",
+        "Expansion in retail footprint and stores under the Company-Owned Franchise-Operated (COFO) model is forecasted to drive significant revenue growth in the medium term."
+      ],
+      "risks": [
+        "Organic India (a part of Fabindia) has experienced significant losses and write-downs, which have impacted Fabindia\u2019s overall performance.",
+        "Fabindia\u2019s debt has increased due to borrowing to acquire more shares in Organic India and higher working capital needs, which is putting pressure on its finances.",
+        "The company earns about 70% of its revenue from the apparel segment, which is highly competitive, making it risky to rely on just one source of income.",
+        "Higher inventory levels due to changes in the store model have led to increased borrowing for working capital, which will need to be managed carefully.",
+        "Fabindia\u2019s sales are sensitive to economic downturns,. During tough financial times, people may cut back on spending which could impact the company\u2019s performance."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Afcons-infra-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/390411/afcons-infrastructure",
+    "symbol": "AFCONS",
+    "name": "Afcons Infrastructure",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "afcons-infrastructure",
+    "gmpUrl": "https://ipowatch.in/afcons-infrastructure-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Afcons Infrastructure Limited was founded in 1959. It is the flagship infrastructure engineering and construction company of the Shapoorji Pallonji Group and a multinational firm headquartered in Mumbai, India. Afcons excels in diverse sectors such as marine, surface transport, urban infrastructure, hydro, underground, and oil and gas. The company provides infrastructure services and is involved in the construction of projects such as flyovers, metros, bridges, pipelines, roads, ports, barrages, and oil and gas facilities.",
+      "min_investment": null,
+      "strengths": [
+        "The company has a legacy of over six decades with a strong track record of executing complex and challenging Engineering, Procurement, and Construction (EPC) projects in India and internationally.",
+        "The company has a diversified order book across metro and urban infrastructure works, tunneling and hydro projects, surface transport, marine, and oil and gas segments.",
+        "Afcons Infrastructure Limited has a healthy order book position, providing strong medium-term revenue visibility and demonstrating its ability to secure projects across various segments and geographies.",
+        "The company\u2019s operating income has grown over the years, and expected annual revenue growth and stable operating margins have contributed to this."
+      ],
+      "risks": [
+        "A significant portion of projects comes from government or government-owned entities, which introduces risks associated with political changes, bureaucratic delays, and funding availability.",
+        "Projects awarded may be challenged by unsuccessful bidders, resulting in potential delays or disruptions. Legal proceedings can incur substantial costs and may lead to the termination of contracts, adversely affecting future revenues.",
+        "Competition from other infrastructure companies, such as Larsen & Toubro Limited, KEC International Limited, Kalpataru Project International Limited, and Dilip Buildcon Limited, may threaten Afcons\u2019 market share and profitability.",
+        "The infrastructure industry, where Afcons operates, can be subject to regulatory changes, economic fluctuations, and project delays, which could impact the company\u2019s performance."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/hero-fincorp-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/390195/hero-fincorp",
+    "symbol": "HEROFINCORP",
+    "name": "Hero Fincorp",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "hero-fincorp",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": "3668cr",
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Incorporated in 1991, Hero Fincorp, part of the Hero MotoCorp group is a scaled NBFC offering a diversified suite of financial products catered primarily to the growing retail customer segment and the rapidly formalizing MSME customer segment in India. The company\u2019s business verticals are the following: i) retail, ii)MSME, and iii) CIF loans. Its retail loans include vehicle, personal, and mortgage loans. MSME Finance includes offering MSME customers (i) secured loans in the form of loans against property and construction finance; and (ii) unsecured loans in the form of business loans and supply chain finance, to support them in the operation and expansion of their businesses, including acquiring fixed assets and meeting working capital needs. In its CIF loans segment, It offers secured loans to corporate & institutional customers such as promoters, holding companies, and operating entities of large corporations.",
+      "min_investment": null,
+      "strengths": [
+        "The company benefits significantly from the strong track record and reputation associated with the long-standing \u201cHero\u201d brand.",
+        "The company\u2019s overall customer base is over 11.80 million customers, which includes 5 million active retail customers, 29,060 active MSME customers, and 360 active CIF customers, as of March 31, 2024.",
+        "The company is a strong liability franchise and has access to low-cost borrowing, and strong credit ratings of \u201cAA+ with stable outlook\u201d from CRISIL, ICRA, and CARE, and its commercial papers are rated \u201cA1+\u201d by CRISIL, CARE, and ICRA as at March 31, 2024.",
+        "As of March 31, 2024, The company had a positive asset liability management on a cumulative basis across the majority of the time buckets, with a surplus of 3.17 times.",
+        "The company has a well-integrated technology platform across functions and data-driven operations. Constant digital innovation has led to a significant improvement in its non-cash collections rate from 76.00% in Fiscal 2022 to 83.31% in Fiscal 2024."
+      ],
+      "risks": [
+        "The company sourced 99% of its two-wheeler loans from its Promoter, Hero MotoCorp\u2019s two-wheeler dealership. Any decline in demand for Hero two-wheelers may adversely affect the business.",
+        "Changes in interest rates may affect its treasury operations, causing net interest income to decline.",
+        "The company extends fixed-rate and floating-rate loans to customers, and any adverse change in interest rates could cause net interest income to decline and adversely affect the business.",
+        "Unsecured loans comprised 39% of total assets under management, respectively. If the company is unable to recover such receivables promptly or at all, the business may be adversely affected",
+        "The company may face asset-liability mismatches, which could adversely affect its liquidity and consequently affect its profitability and financial condition.",
+        "The Indian financial services industry in which the company operates is highly competitive and the growth of the business depends on its ability to compete effectively."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/LG-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/390473/lg-electronics",
+    "symbol": "LGELEC",
+    "name": "LG electronics",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "lg-electronics",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "LG Electronics India Pvt. Ltd. was founded in 1997 and is a subsidiary of the South Korean multinational, LG Corporation. LG is a leading player in the Indian consumer electronics and home appliances market. It offers an extensive range of products, including refrigerators, washing machines, air conditioners, microwave ovens, and water purifiers in the home appliances segment, as well as OLED, LED, and UHD TVs, audio systems, and other home entertainment solutions. Additionally, LG serves businesses with commercial displays, solar solutions, and HVAC systems.",
+      "min_investment": null,
+      "strengths": [
+        "LG India benefits from strong global support, leveraging its global resources and technology for success in the Indian market.",
+        "Known for high-quality products, LG India enjoys strong customer loyalty, driven by durable goods and tailored advertising.",
+        "The \u201cG-local\u201d strategy ensures that LG products are adapted to local preferences and supported by a vast dealer network, ensuring easy availability.",
+        "A wide product range and automated processes give LG India the flexibility to meet market demand efficiently.",
+        "Brand visibility is boosted through sponsorship of cricket and CSR initiatives in education, women\u2019s empowerment, and healthcare.",
+        "Strong financial backing and consistent profits enable LG India\u2019s continued growth and expansion in the market."
+      ],
+      "risks": [
+        "Intense competition from rivals like Samsung, Sony, and Haier could pressure profits and market share.",
+        "Intellectual property disputes may result in costly legal battles, brand damage, or restricted access to key technologies.",
+        "Supply chain disruptions caused by natural disasters or global crises can lead to delays, increased costs, and product shortages.",
+        "Declining demand in crowded urban markets limits growth potential, requiring caution in saturated areas.",
+        "Rapid technological advancements necessitate constant innovation, with delays in launching new products potentially leading to market loss.",
+        "Economic fluctuations, currency volatility, and changing regulations can impact profitability and increase operational risks."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Acme-solar-holdings-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/390197/acme-solar-holdings",
+    "symbol": "ASHL",
+    "name": "ACME Solar Holdings",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "acme-solar-holdings",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "ACME Solar Holdings Limited was established in 2015 to consolidate the ACME Group\u2019s renewable energy business. It is a renewable energy company, specializing in solar, wind, hybrid, and firm and dispatchable renewable energy projects. It is one of the largest Independent Power Producers (IPP) in the country, with an operational capacity of 1,320 MW in solar projects and a significant pipeline of under-construction projects totalling 2,220 MW. The company focuses on developing, building, owning, operating, and maintaining utility-scale renewable energy projects while generating revenue through sales to government-backed entities.",
+      "min_investment": null,
+      "strengths": [
+        "ACME Solar Holdings has a comprehensive portfolio that includes solar, wind, hybrid, and firm and dispatchable renewable energy projects, making it one of the largest independent power producers in India.",
+        "The ACME Group has been an early entrant in the solar IPP business in India. It commissioned its first solar power plant in Fiscal 2012 and has developed a total of 2,719 MW of solar power projects to date.",
+        "The company has established power purchase agreements that ensure revenue generation from various government-backed entities, securing its financial stability.",
+        "The company has signed a memorandum of understanding with the Government of Uttar Pradesh for a significant closed-loop pump storage project, showcasing its growth strategy in renewable energy."
+      ],
+      "risks": [
+        "The renewable energy sector is subject to regulatory changes that can impact project approvals, tariffs, and operational guidelines, introducing uncertainty into future earnings.",
+        "The company\u2019s revenue is significantly tied to government policies and incentives for renewable energy projects. Any changes in these policies could negatively affect profitability.",
+        "The company is dependent on the top 10 off-takers, which contributed 89.97% of revenue from operations in 2024.",
+        "ACME Solar does not have long-term agreements with suppliers and typically sources the required components through purchase orders."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/BMW-ventures-ipo-300x300.jpeg",
+    "link": "https://zerodha.com//ipo/389545/bmw-ventures",
+    "symbol": "BMW",
+    "name": "BMW Ventures",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "bmw-ventures",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "BMW Ventures is not related to the luxury car manufacturer. /n Established in 1994, BMW Ventures specializes in manufacturing and selling steel products. Its distribution network comprises 900 dealers in 29 of Bihar\u2019s 38 districts, 1 stockyard in Purnea, and 3 in Patna. The company has also diversified into manufacturing pre-engineered buildings (PEB), steel girders, and PVC pipes and is the first in Bihar to receive Research Design and Standards Organization (RDSO) approval for its steel girder unit, enabling it to supply products to the Indian Railways.",
+      "min_investment": null,
+      "strengths": [
+        "Exclusive distribution of long and flat steel products to 900+ dealers and buyers in Bihar.",
+        "The company has built strong customer relationships and a solid market presence over 30 years in the steel industry.",
+        "As of fiscal 2023, the company accounted for about 20% of TMT bar sales in Bihar.",
+        "The company focuses on quality control, quick turnarounds, responsive support, and tailored solutions for customers."
+      ],
+      "risks": [
+        "The company depends on its primary supplier, and any disruption could impact operations and profits.",
+        "Operations are largely concentrated in the state of Bihar. Any adverse economic, political, or environmental developments in Bihar could adversely affect the company\u2019s business performance.",
+        "Volatility in raw material prices and global supply-demand will affect revenue and profitability.",
+        "A large portion of the revenue is from sales of third-party manufacturers. Any decrease in sales from any one of these key intermediaries may adversely affect the business."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Quadrant-Future-Tek-300x300.jpg",
+    "link": "https://zerodha.com//ipo/391242/quadrant-future-tek",
+    "symbol": "QUADRANT",
+    "name": "Quadrant Future Tek",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "quadrant-future-tek",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Quadrant Future Tek Limited was established in 2015, focusing on manufacturing specialty cables and advanced train control systems. The company serves key industries such as railways, defence, aerospace, and electric vehicles. With expertise in producing fire-resistant and lightweight cables, it ensures safety and reliability for critical applications. The business also plays a significant role in India\u2019s rail safety with its Kavach system, an advanced automatic train protection system.",
+      "min_investment": null,
+      "strengths": [
+        "Quadrant Future Tek leads the development of a comprehensive train control system that integrates multiple subsystems for improved rail safety.",
+        "The company has entered into an exclusive Memorandum of Understanding with RailTel Corporation of India Limited, a government undertaking. This will help with funding long-term working capital requirements.",
+        "The company has strong in-house capabilities for designing and developing railway signaling products."
+      ],
+      "risks": [
+        "The company has faced disputes among promoters regarding business activities in competing companies, which could affect the company\u2019s governance and operations.",
+        "The business relies heavily on one facility in Mohali, Punjab. Any breakdown or shutdown could severely impact operations.",
+        "Revenues are substantially dependent on the policies of the Ministry of Railways and operations of Indian Railways and tenders awarded by different Railway Zones.",
+        "The business requires a lot of working capital for business operations. Failure to meet this requirement will significantly affect the business.",
+        "The company primarily deals with customers on a purchase-order basis or through tenders it issues periodically. As a result, it does not have long-term contracts with most of them."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/mobikwik-ltd-300x300.jpg",
+    "link": "https://zerodha.com//ipo/300483/mobikwik",
+    "symbol": "MOBIKWIK",
+    "name": "MobiKwik",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "mobikwik",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Incorporated in 2009, One MobiKwik Systems Limited, popularly known as MobiKwik is a platform business at its core, that has a two-sided payments network, consisting of consumers and merchants where the company provides access to various payment use cases as well as financial products in the digital credit, investments, and insurance verticals. The company\u2019s operations are divided into two distinct businesses: (i) Payments and (ii) Financial Services. /n Payments Business: The following\u00a0are the payment services products of the company (via UPI, MobiKwik Wallet, cards, and pay-later): /n Financial Services Business: The following\u00a0are the Digital Credit products of the company: /n The following are the investment products of the company:",
+      "min_investment": null,
+      "strengths": [],
+      "risks": []
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/godavari-ltd-300x300.jpg",
+    "link": "https://zerodha.com//ipo/333546/godavari-biorefineries",
+    "symbol": "GBL",
+    "name": "Godavari Biorefineries",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "godavari-biorefineries",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Godavari Biorefineries plans to launch a public offering and has submitted the DHRP. Incorporated in Mumbai, Maharashtra in 1956 as Godavari Investment and Finance Corporation Limited, the company underwent a name change to Godavari Biorefineries Limited in 2006. The integration of The Godavari Sugar Mills Limited\u2019s sugar, power, chemical, and distillery business into the company occurred in 2009. With a diverse product portfolio comprising bio-based chemicals, sugar, rectified spirits, ethanol, and power, the company serves various industries, including agrochemicals, cosmetics, pharmaceuticals, and beverages. Its global presence extends to over 20 countries, contributing to a notable portion of consolidated revenues. /n The company\u2019s commitment to research and development is evident through its numerous patented products and collaborations with reputable entities. Operating two manufacturing facilities, one each in the Bagalkot district of Karnataka and the Ahmednagar district of Maharashtra, the company has solidified its position in the bio-refinery sector. /n *All figures except EPS are in \u20b9 Crores",
+      "min_investment": null,
+      "strengths": [],
+      "risks": [
+        "Dependency on Sugarcane, Molasses, and Feedstock: The manufacturing operations in the sugar, distillery, and cogeneration segments rely heavily on the availability of sugarcane, molasses, and feedstock. Shortages in these materials due to seasonal vagaries, adverse weather conditions, crop disease, or pest attacks could adversely affect operations and results.",
+        "Supplier Dependency for Raw Materials: Procurement of raw materials, excluding sugarcane, depends on a few suppliers. Any failure to procure these materials from the designated suppliers could disrupt manufacturing operations and impact results.",
+        "Dependency on Government Policies for Ethanol Sales: A significant portion of revenue from ethanol sales relies on the ethanol-blended petrol program initiated by the Government of India. Any adverse changes in government policies regarding this program could negatively affect revenue and financial condition."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/keventers-Ltd-300x300.png",
+    "link": "https://zerodha.com//ipo/334880/keventers-agro-limited",
+    "symbol": "KEVENTERS",
+    "name": "Keventers Agro",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "keventers-agro",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Keventers Agro plans to launch a public offering and has submitted the DHRP. Incorporated in 1986, Keventers Agro Limited operates as a fast-moving consumer goods (FMCG) company headquartered in Kolkata. The company\u2019s diversified portfolio encompasses packaged, dairy, and fresh food products, catering to the varied needs of consumers in East and North East India. The company\u2019s core operations are divided into two primary segments: /n *All figures except EPS are in \u20b9 Crores",
+      "min_investment": null,
+      "strengths": [],
+      "risks": [
+        "Raw Material Supply Risks: Inadequate or interrupted supply, seasonality, and price fluctuations of raw materials such as raw milk, banana, mango pulp, etc., could adversely affect business operations, cash flows, and financial condition. External factors beyond control, including weather conditions, increased demand, governmental regulations, transportation costs, and economic conditions, may impact raw material availability and quality.",
+        "Product Quality and Contamination Risks: Actual or alleged contamination or deterioration in product or raw material quality could result in legal liability, damage to reputation, and adverse effects on business prospects and financial performance. Risks include contamination of raw materials, product tampering, labeling errors, consumer liability claims, and product recalls.",
+        "Dependency on Franchisor: Dependency on the franchisor for manufacturing and sale of certain products imposes restrictions and obligations on operations. Termination of such agreements could adversely affect business, financial condition, and prospects."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/VLCC-ltd-300x300.png",
+    "link": "https://zerodha.com//ipo/334879/vlcc-health-care-limited",
+    "symbol": "VLCC",
+    "name": "VLCC Health Care",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "vlcc-health-care",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "VLCC is one of the largest players in the Wellness & Beauty services industry in India, with the widest footprint of company-operated clinics. As of March 31, 2021, it serves customers across 310 locations in 143 cities and across 12 countries in South Asia, South East Asia, the Gulf Cooperation Council Region, and East Africa. The company ecosystem includes comprehensive services and products, including wellness programs, weight management solutions, personal care products, nutraceutical products, and skill development training. The 3 core businesses are; /n *All figures except EPS are in \u20b9 Crores",
+      "min_investment": null,
+      "strengths": [],
+      "risks": []
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/oyo-300x300.jpeg",
+    "link": "https://zerodha.com//ipo/307026/oyo-oravel-stays-limited",
+    "symbol": "OYO",
+    "name": "OYO",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "oyo",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Oyo (Oravel Stays Limited) is a leading, new-age technology platform empowering the large yet highly fragmented global hospitality ecosystem. It has focused on reshaping the short-stay accommodation space since its incorporation in 2012 and has developed a unique two-sided technology platform focused on addressing key pain points of its Patrons (being the owners, lessors, and/or operators of storefronts listed on their platform) on the supply side and their customers (being travellers and guests who book accommodations at their Patrons\u2019 storefronts through their platform) on the demand side. /n Their business model helps their Patrons transform fragmented, unbranded, and underutilized hospitality assets into branded, digitally-enabled storefronts with higher revenue generation potential and provides their customers with access to a broad range of high-quality storefronts at compelling price points. /n As of March 31, 2021, Oyo had 157,344 storefronts across more than 35 countries listed on their platform. Oyo has the largest footprint (in terms of hotel storefronts) in its key markets of India & SEA and the second-largest footprint in Europe (in terms of homes storefronts) among full-stack short-stay accommodation players as of September 9, 2021. /n The entire public offer of Oyo comprises a fresh issue of equity shares aggregating up to Rs. 7,000 crores and an offer for sale of equity shares aggregating up to Rs. 1,430 crores from selling shareholders, SVF India Holdings Limited, A1 Holdings Inc. amongst others. /n Key Highlights:",
+      "min_investment": null,
+      "strengths": [],
+      "risks": []
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/nsdl-ltd-300x300.jpg",
+    "link": "https://zerodha.com//ipo/355868/national-securities-depository-limited-nsdl",
+    "symbol": "NSDL",
+    "name": "National Securities Depository Limited",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "national-securities-depository-limited",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "National Securities Depository Limited (NSDL) is a SEBI-registered market infrastructure institution (MII) offering a wide range of products and services to the financial and securities markets in India. It pioneered the dematerialization of securities in India and is the largest depository in India in terms of the number of issuers, number of active instruments, market share in demat value of settlement volume, and value of assets held under custody. /n The core functions of NSDL are as follows: /n Additionally, it provides additional services like e-voting services, consolidated account statements (CAS), and non-disposal undertakings (NDU). It has 2 subsidiaries: NSDL Database Management Limited (NDML) and NSDL Payments Bank Limited (NPBL). NDML services like the automation and e-governance project for special economic zones and a national skills registry that seeks to build a credible record of the employees working in the IT / ITeS industry. NPBL operates a payments bank business and focuses on financial inclusion.",
+      "min_investment": null,
+      "strengths": [],
+      "risks": []
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/navi-technologies-ltd-300x150.jpg",
+    "link": "https://zerodha.com//ipo/331806/navi-technologies-limited",
+    "symbol": "NAVITECH",
+    "name": "Navi Technologies",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "navi-technologies",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Navi Technologies Limited is a technology-driven financial services provider in India, targeting the digitally connected young middle-class population. Positioned as a leading end-to-end digital ecosystem player, it controls lending, insurance, and asset management services. Operating under the \u201cNavi\u201d brand, the company offers personal loans, home loans, general insurance, and mutual funds. Their mobile-first approach and in-house technology aim for a streamlined, customer-centric experience. The company\u2019s diverse offerings include microfinance loans through a subsidiary, the \u201cChaitanya\u201d brand. According to the RedSeer Report, their complete ownership of products and technology provides a competitive edge over traditional incumbents and third-party dependent fintech platforms. /n Their Business Lines include:",
+      "min_investment": null,
+      "strengths": [],
+      "risks": [
+        "The failure to promptly or fully recover the value of collateral or outstanding amounts from defaulted home loans may have negative consequences on the business, financial condition, and operational results of the company.",
+        "The business handles a substantial volume of data, including personal information. Any mishandling, such as improper collection, hosting, use, or disclosure of this data, may result in damage to the company\u2019s reputation and negatively impact its overall business, financial health, and operational outcomes.",
+        "The company operates in the financial services industry in India and is impacted by laws and regulations related to lending, insurance, asset management, and financial services. Changes in these regulations could have negative effects on the company\u2019s business, financial condition, and overall performance, including its results of operations and cash flows."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/deltatech-gaming-adda-52-300x300.jpg",
+    "link": "https://zerodha.com//ipo/355218/deltatech-gaming-limited",
+    "symbol": "DELTAGAMING",
+    "name": "Deltatech Gaming (Adda 52)",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "deltatech-gaming-(adda-52)",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "The Indian online gaming market is broadly divided into Real Money Games (RMG) and Non-Real Money Games (Non-RMG). RMG are games based on skill with an option to play with real money. Non\u2013RMG includes games where there is no real money involved. RMG dominates the market by revenue and Rummy, Poker and Fantasy are the leading games in the RMG category. Delta Tech Gaming Limited (Delta) is one of the earliest companies in the RMG segment in India. It is a wholly-owned subsidiary of Delta Corp Limited, known by the brand Deltin, which owns casinos in Goa and Sikkim. /n Delta offers real-money gaming through the following platforms:",
+      "min_investment": null,
+      "strengths": [],
+      "risks": []
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/lava-300x300.png",
+    "link": "https://zerodha.com//ipo/307522/lava-international",
+    "symbol": "LAVA",
+    "name": "Lava International",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "lava-international",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Lava International is a leading mobile handset and solutions provider based in India, ranking third in feature phone sales in India and fifth globally. With operations in several countries, it has a significant market presence in emerging markets. The company designs, manufactures, and distributes mobile handsets and accessories under the \u201cLAVA\u201d and \u201cXOLO\u201d brands, catering to both domestic and international markets. Additionally, it offers mobile handset solutions to OEMs. The company emphasizes research and development, showcasing innovative products and software, and has a strong service network. It has successfully expanded its distribution channels, both domestically and internationally, and has achieved consistent revenue growth, with a focus on customer satisfaction. /n *All figures except EPS are in \u20b9 crores",
+      "min_investment": null,
+      "strengths": [],
+      "risks": [
+        "The company has had an instance of non-compliance under the Companies Act, 2013 and there was an instance of delay in filing statutory forms with the RoC. Further, certain filings made for allotment/transfer from a non-resident shareholder filed with RBI are not traceable. The company faces foreign currency exchange risks due to a substantial portion of its revenues, expenses, and certain borrowings being denominated in foreign currencies. Additionally, risks associated with overseas operations could negatively impact the company\u2019s business, financial condition, and results of operations.",
+        "The company may encounter product recalls, product liability claims, and legal actions if its products fail to meet customer expectations, potentially resulting in adverse effects on business, revenues, and reputation. The company has faced negative cash flows in operating, investing, and financing activities over the past three financial years, and any future negative cash flows could have adverse effects on its results of operations and financial condition."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/snapdeal-300x167.png",
+    "link": "https://zerodha.com//ipo/329342/snapdeal-limited",
+    "symbol": "SNAPDEAL",
+    "name": "Snapdeal",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "snapdeal",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Snapdeal Limited is an online e-commerce platform focused on the value lifestyle segment, catering to mid-income \u201cBharat\u201d shoppers in Tier 2+ cities. Established in 2007, it evolved from a coupon booklet business to an eCommerce marketplace. The company, with a vision to be India\u2019s leading value lifestyle omni-channel provider, offers a diverse range of merchandise. In addition to its online operations, its subsidiary Unicommerce provides e-commerce software solutions. The public offer includes a fresh equity issue of up to Rs. 1,250 crores and an offer for sale of 3.07 crore equity shares from existing shareholders like SoftBank and Sequoia Capital. Their strategic focus involves positive unit economics, expanding into omnichannel distribution, and growing Unicommerce to enhance overall revenue.",
+      "min_investment": null,
+      "strengths": [],
+      "risks": [
+        "The company acknowledges previous losses and indicates the possibility of facing future losses. Potential challenges include increasing delivered units, net monetary value (NMV), and acquiring new users cost-effectively to boost revenues and achieve profitability. Additionally, the company has experienced negative cash flows in recent periods, including the six months ended September 30, 2021, as well as in the financial years 2021, 2020, and 2019, with the likelihood of negative cash flows continuing in the future.",
+        "The success of our app depends on the Google Play Store and Apple App Store for distribution and promotion. Any adverse changes in their terms and conditions, violation of those terms, or a perceived violation could negatively impact our business."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/goldplus-300x300.png",
+    "link": "https://zerodha.com//ipo/335317/gold-plus-glass-industry-limited",
+    "symbol": "GPGIL",
+    "name": "Gold Plus Glass Industry",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "gold-plus-glass-industry",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Incorporated in 1985, Gold Plus Glass Industry Limited contributes to India\u2019s float glass sector, holding a 16% manufacturing capacity share as of Fiscal 2021. The company is active in both the value-added and clear glass segments, with respective market shares of 30% and 15%. The company operates a production line with a capacity of 1,250 tonnes per day, offering clear glass, 22 types of value-added glass, and 11 processed glass products ranging from 2 to 12 mm in thickness. Their products serve diverse industries like construction, automotive, and industrial sectors, with applications in building spaces, furniture, infrastructure, and automotive components.\u00a0As of December 31, 2021, the company established a wide distribution network with 1,299 associates in 24 States and 4 Union Territories in India, plus 59 associates across 8 international markets. /n *All figures except EPS are in \u20b9 Crores",
+      "min_investment": null,
+      "strengths": [],
+      "risks": [
+        "Manufacturing Operations Dependency: The single manufacturing facility in Roorkee is crucial for production. Any disruption could significantly impact business operations and financial performance.",
+        "Expansion Risks: Plans to expand operations into southern and western states, including setting up a new facility in Karnataka, pose management and relationship risks. Failure to manage the new facility or establish strong business relationships may adversely affect business prospects and financial performance.",
+        "Utilization of Net Proceeds: There\u2019s uncertainty regarding the timely realization of expected benefits from utilizing the net proceeds, including repayment of borrowings and meeting working capital requirements."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/05/wellness-300x300.png",
+    "link": "https://zerodha.com//ipo/308388/wellness-forever-medicare-limited",
+    "symbol": "WELLNESS",
+    "name": "Wellness Forever Medicare",
+    "startDate": null,
+    "endDate": null,
+    "listingDate": null,
+    "priceRange": {
+      "min": null,
+      "max": null
+    },
+    "slug": "wellness-forever-medicare",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": null,
+      "sizePerLot": null,
+      "schedule": [],
+      "about": "Wellness Forever Medicare Limited, India\u2019s third-largest retail pharmacy and wellness network by the number of stores, is set to launch an IPO. Established in 2008, the company operates 236 stores in 23 cities across Maharashtra, Karnataka, and Goa, serving 6.7 million registered customers as of June 30, 2021. Known for its 24\u00d77 operational stores, Wellness Forever offers approximately 91,500 pharmaceutical and wellness products, including FMCGs, FMHGs, nutraceuticals, and medical equipment. /n The brand differentiates itself with a premium selection of wellness products, both from third-party labels and private brands. Their larger-than-average stores feature a self-browsing format and qualified pharmacists, enhancing the customer experience. The omnichannel retail network includes a website, mobile app, and toll-free call centre, enabling rapid delivery of products within two to six hours. /n Wellness Forever aims to become India\u2019s most respected chain of pharmacies and wellness stores. According to Technopak, significant growth opportunities exist in India\u2019s pharmacy retail space due to favourable demographics, rising disposable income, increased digitization, and higher healthcare coverage. The company plans to leverage its strengths and technological innovations to solidify its leadership and expand its operations. The IPO comprises a fresh issue of equity shares aggregating up to \u20b9400 Cr and an Offer for Sale of 1,60,44,709 equity shares by the selling shareholders. /n *All figures except EPS are in \u20b9 Crores",
+      "min_investment": null,
+      "strengths": [],
+      "risks": []
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/krn-heat-exchanger-and-refrigeration-ipo-300x300.webp",
+    "link": "https://zerodha.com//ipo/390277/krn-heat-exchanger-and-refrigeration",
+    "symbol": "KRN",
+    "name": "KRN Heat Exchanger and Refrigeration",
+    "startDate": "2024-09-25T10:00:00",
+    "endDate": "2024-09-27T17:00:00",
+    "listingDate": "2024-10-03T09:00:00",
+    "priceRange": {
+      "min": 209,
+      "max": 220
+    },
+    "slug": "krn-heat-exchanger-and-refrigeration",
+    "gmpUrl": "https://ipowatch.in/krn-heat-exchanger-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "342cr",
+      "sizePerLot": 65,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-25T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-27T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-12T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-30T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-29T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "KRN Heat Exchanger and Refrigeration Limited manufactures fin and tube-type heat exchangers for the HVAC&R industry, using non-ferrous metals like copper and aluminum. Their product range includes condenser coils, evaporator units, and various sheet metal parts, tailored to customer requirements. They produce heat exchangers in various sizes, suitable for applications such as residential and commercial air conditioning, data center cooling, automotive HVAC, refrigeration, and process cooling. To ensure durability and efficiency, they apply advanced coatings like nano and powder coatings, enhancing corrosion resistance and reducing maintenance. Their products meet stringent quality standards and are essential for high-performance cooling systems.",
+      "min_investment": 14300,
+      "strengths": [
+        "Strong leadership from promoters supported by an experienced senior management team",
+        "Long-standing business relationships with leading clients in the industry",
+        "Effective quality control processes ensuring high product standards",
+        "Well-established manufacturing facility with consistent financial performance"
+      ],
+      "risks": [
+        "Significant revenue dependence on Daikin Airconditioning India and its top 10 customers poses a concentration risk.",
+        "Heavy reliance on a few suppliers, with over 70% of imports from foreign countries, increases vulnerability to disruptions.",
+        "No long-term supplier contracts and dependence on overseas vendors expose the company to supply chain risks.\u00a0\u00a0",
+        "Lack of hedging against raw material price fluctuations may hurt margins if costs cannot be passed to customers."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": 250
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": 250
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": 250
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": 240
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": 225
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": 225
+      },
+      {
+        "date": "2024-09-21T00:00:00",
+        "price": 225
+      },
+      {
+        "date": "2024-09-20T00:00:00",
+        "price": 225
+      },
+      {
+        "date": "2024-09-19T00:00:00",
+        "price": 225
+      },
+      {
+        "date": "2024-09-18T00:00:00",
+        "price": 225
+      },
+      {
+        "date": "2024-09-17T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-16T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/tech-era-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/390576/techera-engineering",
+    "symbol": "TECHERA",
+    "name": "TechEra Engineering",
+    "startDate": "2024-09-25T10:00:00",
+    "endDate": "2024-09-27T17:00:00",
+    "listingDate": "2024-10-03T09:00:00",
+    "priceRange": {
+      "min": 75,
+      "max": 82
+    },
+    "slug": "techera-engineering",
+    "gmpUrl": "https://ipowatch.in/techera-engineering-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "36cr",
+      "sizePerLot": 1600,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-25T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-27T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-12T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-30T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-29T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "TechEra Engineering (India) Limited is a precision tooling and automation solutions provider for the aerospace and defense industries. Established in 2018, the company offers a range of products including assembly tooling, jigs, fixtures, MRO tooling, ground support equipment, and precision machine components. They use advanced technologies like 5-axis machining and 3D modeling to meet the high standards of their target sectors.",
+      "min_investment": 131200,
+      "strengths": [
+        "Specialized in aerospace and defense manufacturing.",
+        "Invests in advanced manufacturing technologies.",
+        "Has experienced leadership in aerospace and automation.",
+        "Recognized for quality and excellence through certifications."
+      ],
+      "risks": [
+        "Reliance on a single manufacturing facility poses significant risks.",
+        "Delayed payment of government dues and penalties indicates financial instability.",
+        "Dependence on third-party suppliers for raw materials can disrupt operations.",
+        "Past financial losses highlight the company\u2019s financial instability.",
+        "Legal and regulatory issues, such as criminal proceedings, could impact the company\u2019s reputation and operations."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": 20
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": 20
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": 20
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": 20
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": 10
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": 10
+      },
+      {
+        "date": "2024-09-21T00:00:00",
+        "price": 10
+      },
+      {
+        "date": "2024-09-20T00:00:00",
+        "price": 10
+      },
+      {
+        "date": "2024-09-19T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/thinking-hats-300x300.jpg",
+    "link": "https://zerodha.com//ipo/390583/thinking-hats-entertainment-solutions",
+    "symbol": "THESL",
+    "name": "Thinking Hats Entertainment Solutions",
+    "startDate": "2024-09-25T10:00:00",
+    "endDate": "2024-09-27T17:00:00",
+    "listingDate": "2024-10-03T09:00:00",
+    "priceRange": {
+      "min": 42,
+      "max": 44
+    },
+    "slug": "thinking-hats-entertainment-solutions",
+    "gmpUrl": "https://ipowatch.in/thinking-hats-entertainment-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "15cr",
+      "sizePerLot": 3000,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-25T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-27T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-12T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-30T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-29T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Thinking Hats Entertainment Solutions Private Limited, founded in 2013, operates across various areas, including live events, corporate events, MICE (Meetings, Incentives, Conferences, and Exhibitions), as well as social and virtual events. The company provides services such as event management, music concerts, artist management and contracting, project management, campaign management, launch campaigns, brand/marketing activations, exclusive events, fashion shows, crew management, marketing events, employee engagement programs, and design and production. It also focuses on OTT content production, experiential marketing, and tech-driven product development.",
+      "min_investment": 132000,
+      "strengths": [
+        "Over 10 years of experience offering a wide range of services.",
+        "Business presence across multiple locations.",
+        "Strong ability to create and design concepts in-house.",
+        "Prestigious and well-known clients.",
+        "Experienced management team with proven project management and implementation skills."
+      ],
+      "risks": [
+        "The company heavily relies on its event management division for a large portion of its revenue, and losing customers in this area could hurt its business.",
+        "Occasional fluctuations in demand or seasonal factors may impact the company\u2019s cash flow and day-to-day operations.",
+        "The company depends on a few long-term customers for most of its revenue, and losing any of them could negatively affect its business.",
+        "It often doesn\u2019t have long-term contracts with clients, so if customers choose other providers, it could harm the company\u2019s financial health.",
+        "The company relies on third-party vendors for many event-related tasks, and their unavailability could disrupt its operations."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": 30
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": 30
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": 30
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": 25
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": 20
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": 20
+      },
+      {
+        "date": "2024-09-21T00:00:00",
+        "price": 15
+      },
+      {
+        "date": "2024-09-20T00:00:00",
+        "price": 7
+      },
+      {
+        "date": "2024-09-19T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Unilex-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/390858/unilex-colours-and-chemicals",
+    "symbol": "UNILEX",
+    "name": "Unilex Colours and Chemicals",
+    "startDate": "2024-09-25T10:00:00",
+    "endDate": "2024-09-27T17:00:00",
+    "listingDate": "2024-10-03T09:00:00",
+    "priceRange": {
+      "min": 82,
+      "max": 87
+    },
+    "slug": "unilex-colours-and-chemicals",
+    "gmpUrl": "https://ipowatch.in/unilex-colours-and-chemicals-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "31cr",
+      "sizePerLot": 1600,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-25T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-27T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-10-01T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-10-03T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-12T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-30T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-29T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Incorporated in 2001, Unilex Colours and Chemicals Limited is involved in the manufacturing of pigments and trading of chemicals and food colours, serving both domestic and international markets under the brand name \u201cUnilex.\u201d The company\u2019s product range covers pigments such as Pigment Green, Pigment Violet, Ultramarine Blue, and Azo pigments, along with food colours like Tartrazine and Sunset Yellow. Its manufacturing facility in Palghar, Maharashtra, holds ISO 9001:2015 certification for quality management. The company exports to markets in countries including Vietnam, Brazil, Mexico, Russia, Turkey, and the Netherlands.",
+      "min_investment": 139200,
+      "strengths": [
+        "Long-term relationships with customers across various industries and geographies help mitigate risks related to customer concentration.",
+        "Offers a variety of products through both in-house manufacturing and market sourcing, providing flexibility and a wide selection.",
+        "Serves multiple industries, including plastics, textiles, paints, coatings, and printing inks, which helps reduce dependency on any single industry."
+      ],
+      "risks": [
+        "The company\u2019s heavy reliance on the top five products means a drop in demand or competition could impact overall revenue.",
+        "The company derives significant revenue from major customers without long-term agreements, which could hurt business if orders are reduced or canceled.",
+        "The group company operating in the same industry without a non-compete agreement poses potential conflicts of interest that could affect the company\u2019s competitiveness.",
+        "A significant portion of revenue comes from exports, leaving the company vulnerable to international trade risks and market changes.",
+        "Dependence on third-party suppliers without long-term contracts increases the risk of supply disruptions and cost fluctuations."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": 13
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": 13
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": 13
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-21T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-20T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-19T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/manba-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/390566/manba-finance",
+    "symbol": "MANBA",
+    "name": "Manba Finance",
+    "startDate": "2024-09-23T10:00:00",
+    "endDate": "2024-09-25T17:00:00",
+    "listingDate": "2024-09-30T09:00:00",
+    "priceRange": {
+      "min": 114,
+      "max": 120
+    },
+    "slug": "manba-finance",
+    "gmpUrl": "https://ipowatch.in/manba-finance-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "151cr",
+      "sizePerLot": 125,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-23T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-25T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-25T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-10T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-26T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-25T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Incorporated in 1998, Manba Finance is a non-banking financial company (NBFC-BL) providing financial solutions for new two-wheeler (2Ws,) three-wheeler (3Ws), electric two-wheeler (EV2Ws), electric three-wheelers (EV3Ws), used cars, small business loans and personal loans. It is based out of Mumbai, Maharashtra, and operates out of 66 locations connected to 29 branches across six states in western, central, and north India.\u00a0 The company\u2019s AUM size is more than \u20b9 900 crores as of March 31, 2024, with salaried and self-employed clients being their target customers.",
+      "min_investment": 15000,
+      "strengths": [
+        "\nAbility to expand to new underpenetrated geographies. It has scaled up its operations from 2009 with vehicle financing and is now present in 66 locations spread across six states in western, central, and north India.\n",
+        "\nThe company\u2019s technology-driven and scalable operating model is helping it and its customers with a quick Turn Around Time (TAT) for loan processing.\u00a0\n",
+        "\nThe company\u2019s extensive collection infrastructure and processes are leading them to a well-maintained asset quality.\n",
+        "\nThe company has access to diversified and cost-effective long-term borrowing. Its diversified sources include term loans and cash credit facilities from PSU banks, private sector banks, small finance banks, & other financial institutions, and PTC and the issuance of privately placed listed and unlisted NCDs to meet its capital requirements.\n",
+        "It has established strong relationships with more than 1,100 dealers, including more than 190 EV dealers, across Maharashtra, Gujarat, Rajasthan, Chhattisgarh, Madhya Pradesh, and Uttar Pradesh."
+      ],
+      "risks": [
+        "\nBusiness and future prospects might be adversely impacted if maintaining relationships with dealers, from whom a significant part of the New Vehicle Loans business is derived, becomes challenging.\n",
+        "\nNew Vehicle Loans account for 97.90% of AUM. A lack of product diversity in loan offers might harm the company\u2019s growth, prospects, and financial standing.\n",
+        "Any downgrade in credit ratings could lead to higher borrowing costs, hinder financing acquisition, and negatively affect the business, operational results, and financial health.",
+        "\nPotential asset-liability mismatches could impact liquidity and subsequently have a negative impact on operations and profitability.\n",
+        "\nNegative cash flows from operating activities were recorded in Fiscals 2024 and 2023, and if this trend continues, it could adversely affect cash flow needs, thus hampering the ability to operate the business, implement growth plans, and undermine financial health.\n",
+        "\nParticipation in markets that are competitive and have ever-changing customer needs, means that failing to compete effectively with already established companies and new market participants, could result in a negative effect on the business.\n"
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": 55
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": 55
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": 60
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": 60
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": 60
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": 60
+      },
+      {
+        "date": "2024-09-21T00:00:00",
+        "price": 60
+      },
+      {
+        "date": "2024-09-20T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-19T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-18T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-17T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/wol3d-india-logo-IPO-300x300.jpeg",
+    "link": "https://zerodha.com//ipo/390207/wol3d-india",
+    "symbol": "SME",
+    "name": "WOL3D India",
+    "startDate": "2024-09-23T10:00:00",
+    "endDate": "2024-09-25T17:00:00",
+    "listingDate": "2024-09-30T09:00:00",
+    "priceRange": {
+      "min": 142,
+      "max": 150
+    },
+    "slug": "wol3d-india",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": "25cr",
+      "sizePerLot": 1000,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-23T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-25T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-25T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-10T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-26T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-25T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "WOL3D India, established in 2019, provides 3D printing solutions for sectors like manufacturing, education, engineering, architecture, and healthcare. Their offerings include 3D printers, scanners, pens, filaments, and prototyping services using FDM, SLA, and SLS technologies.",
+      "min_investment": 150000,
+      "strengths": [
+        "The company has built a comprehensive 3D printing ecosystem, offering a full range of hardware, consumables, and services, enabling seamless prototyping and manufacturing solutions.",
+        "It operates a well-established distribution network with a presence in multiple cities, retail chains, and online platforms, ensuring wide accessibility for customers.",
+        "The company\u2019s backward integration through filament manufacturing enhances efficiency and control over its supply chain, giving it a competitive advantage.",
+        "An experienced promoter and management team with industry-specific expertise has contributed to the company\u2019s sustained growth and market credibility."
+      ],
+      "risks": [
+        "Failure to promote and protect the brand could hinder growth and damage reputation.",
+        "Termination or unfavorable renewal of distributor authorizations could disrupt operations.",
+        "Import restrictions and rising shipment costs could impact business and cash flows.",
+        "Over-reliance on certain online marketplaces may lead to operational risks if relationships are disrupted.",
+        "Financial instability from debt or loans could affect liquidity and operational sustainability.",
+        "Legal or regulatory challenges, including criminal proceedings, could significantly impact business operations and investor confidence."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/rapid-valves-ipo-300x300.png",
+    "link": "https://zerodha.com//ipo/390599/rappid-valves",
+    "symbol": "RAPPID",
+    "name": "Rappid Valves",
+    "startDate": "2024-09-23T10:00:00",
+    "endDate": "2024-09-25T17:00:00",
+    "listingDate": "2024-09-30T09:00:00",
+    "priceRange": {
+      "min": 210,
+      "max": 222
+    },
+    "slug": "rappid-valves",
+    "gmpUrl": "https://ipowatch.in/rappid-valves-india-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "31cr",
+      "sizePerLot": 600,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-23T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-25T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-25T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-09-30T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-10T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-26T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-25T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Rappid Valves (India) Limited is a manufacturing company specializing in valve solutions. Established in 2002, they offer a wide range of valves including ball valves, gate valves, globe valves, butterfly valves, check valves, double block valves, strainer valves, and marine valves. Their products are made from ferrous and non-ferrous materials and range in sizes from 15mm to 600mm. They also operate in the chemical, fertilizer, pharmaceutical, and marine industries. They have received approval for fire safe design ball valves and have exported their products to Dubai.\u00a0",
+      "min_investment": 133200,
+      "strengths": [
+        "Specializes in marine valves, meeting high industry standards.",
+        "Maintains strong customer and supplier relationships.",
+        "Prioritizes innovation and product development.",
+        "Led by experienced management with a focus on quality and reliability."
+      ],
+      "risks": [
+        "Reliance on a limited number of customers for revenue",
+        "Dependence on specific product lines for sales.",
+        "Exposure to industry-specific demand fluctuations.",
+        "Potential financial stability risks due to debt or loans.",
+        "Exposure to legal or regulatory issues that could impact operations."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": 100
+      },
+      {
+        "date": "2024-09-27T00:00:00",
+        "price": 100
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": 80
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": 50
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-21T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-20T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-19T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-18T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-17T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-16T00:00:00",
+        "price": null
+      }
+    ]
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/Bikewo-ipo-300x300.jpeg",
+    "link": "https://zerodha.com//ipo/390005/bikewo-greentech",
+    "symbol": "BIKEWO",
+    "name": "BikeWo GreenTech",
+    "startDate": "2024-09-20T10:00:00",
+    "endDate": "2024-09-24T17:00:00",
+    "listingDate": "2024-09-27T09:00:00",
+    "priceRange": {
+      "min": 59,
+      "max": 62
+    },
+    "slug": "bikewo-greentech",
+    "gmpUrl": null,
+    "details": {
+      "issueSize": "24cr",
+      "sizePerLot": 2000,
+      "schedule": [
+        {
+          "event": "issue-open-date",
+          "date": "2024-09-20T00:00:00",
+          "eventTitle": "Issue open date"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-24T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-24T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-09-25T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-09T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-25T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-24T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Incorporated in December 2006, BikeWo GreenTech Limited is engaged in the retail of electric two-wheelers in India. The company operates through a dealership model, offering three types of dealerships: State Dealership, Diamond Dealership, and Platinum Dealership. The company has a presence in Telangana, Andhra Pradesh, Tamil Nadu, Maharashtra, and Gujarat, with plans to expand into Raipur, Indore, Delhi, Chandigarh, Lucknow, Prayagraj, Patna, Bhubaneshwar, Nagpur, Bangalore, and Trivandrum. They also provide financing options to customers through partnerships with financing partners.",
+      "min_investment": 124000,
+      "strengths": [
+        "Operates as an EV dealership for major Original Equipment Manufacturers (OEMs), with a growing presence across multiple states, offering a diverse range of electric vehicles and expanding its dealer base.",
+        "Strong customer relationships and competitive advantages due to longstanding ties with OEM partners.",
+        "Focuses on after-sales services, with workshops and technicians in place to ensure high-quality service and customer retention, enhancing revenue predictability and margins.",
+        "Diverse market presence across several Indian states, with plans for further expansion."
+      ],
+      "risks": [
+        "Heavy reliance on trading and dealerships in the EV sector with any disruption potentially impacting the company\u2019s revenue and operations.",
+        "The business\u2019s high working capital needs, and any inability to meet them, could negatively affect operations and financial results.",
+        "Dependence on key dealers for revenue with a decline in sales from these intermediaries possibly affects business results.",
+        "Reliance on external suppliers for products where any delay or failure in supply could harm business, profitability, and reputation.",
+        "The company plans to expand into regions where it has limited operational history, creating uncertainty in its growth strategy and potential profitability."
+      ]
+    },
+    "gmpTimeline": null
+  },
+  {
+    "logoUrl": "https://zerodha.com/z-connect/wp-content/uploads/2024/09/SD-Retail-ipo-300x300.jpg",
+    "link": "https://zerodha.com//ipo/390029/sd-retail",
+    "symbol": "SDREAMS",
+    "name": "SD Retail",
+    "startDate": "2024-09-20T10:00:00",
+    "endDate": "2024-09-24T17:00:00",
+    "listingDate": "2024-09-27T09:00:00",
+    "priceRange": {
+      "min": 124,
+      "max": 131
+    },
+    "slug": "sd-retail",
+    "gmpUrl": "https://ipowatch.in/sd-retail-ipo-gmp-grey-market-premium/",
+    "details": {
+      "issueSize": "65cr",
+      "sizePerLot": 1000,
+      "schedule": [
+        {
+          "event": "issue-open-dat-",
+          "date": "2024-09-20T00:00:00",
+          "eventTitle": "Issue open dat-"
+        },
+        {
+          "event": "issue-close-date",
+          "date": "2024-09-24T00:00:00",
+          "eventTitle": "Issue close date"
+        },
+        {
+          "event": "upi-mandate-deadline",
+          "date": "2024-09-24T17:00:00",
+          "eventTitle": "UPI mandate deadline"
+        },
+        {
+          "event": "allotment-finalization",
+          "date": "2024-09-25T00:00:00",
+          "eventTitle": "Allotment finalization"
+        },
+        {
+          "event": "refund-initiation",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Refund initiation"
+        },
+        {
+          "event": "share-credit",
+          "date": "2024-09-26T00:00:00",
+          "eventTitle": "Share credit"
+        },
+        {
+          "event": "listing-date",
+          "date": "2024-09-27T00:00:00",
+          "eventTitle": "Listing date"
+        },
+        {
+          "event": "mandate-end-date",
+          "date": "2024-10-09T00:00:00",
+          "eventTitle": "Mandate end date"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(50%)",
+          "date": "2024-10-25T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (50%)"
+        },
+        {
+          "event": "lock-in-end-date-for-anchor-investors-(remaining)",
+          "date": "2024-12-24T00:00:00",
+          "eventTitle": "Lock-in end date for anchor investors (remaining)"
+        }
+      ],
+      "about": "Incorporated in 2004, SD Retail is in the business of designing, manufacturing, outsourcing, marketing, and retailing sleepwear under the brand name \u201cSweet Dreams\u201d. The company\u2019s sleepwear products include Pyjamas, Night Sets, Nighties, T-shirts, etc. The products mainly cater to men and women across all age groups including kids (from age 2 to 16 years) and fit that are suitable to various body types and physiques. In addition, it offers adjacent categories such as loungewear, workout wear, athleisure, and work leisure pants. The company sells its products through distributors, exclusive brand outlets (EBOs), and multi-brand outlets (MBOs) located across various states and union territories in India. It also sells its products through e-commerce platforms such as Myntra, AJIO, Nykaa, Flipkart, Amazon, and its website. In the past two years, it has undertaken the journey of building a network of 33 existing exclusive brand outlets (EBOs).",
+      "min_investment": 131000,
+      "strengths": [
+        "The company has established a multi-channel pan-India presence through various touchpoints, which include exclusive brand outlets (EBOs), large format stores (LFS), and multi-brand outlets (MBOs)",
+        "The company has In-house expertise in designing and developing products. Its designs are known for being colorful, playful, and bold. It sets ourselves apart from other sleepwear brands by targeting shoppers looking for something more stylish.",
+        "Compared to other competitors, Sweet Dreams stands out as the only gender-agnostic brand offering fashionable sleepwear for the entire family, bypassing the innerwear categorization. The product is categorized under Western clothing, with ethnic elements in subcategories such as nighties.",
+        "The company works on a scalable business model as it is order-driven, and comprises optimum utilization of designing, manufacturing, processing, and marketing facilities, developing linkages with quality raw material suppliers, and achieving consequent economies of scale."
+      ],
+      "risks": [
+        "The products are sold under a single brand, \u2018Sweet Dreams\u2019. Any inability to effectively market its products, or any deterioration in public perception of the brand, could affect consumer footfall and consequently adversely impact the business.",
+        "The company operates in highly competitive markets in each of its product segments in both offline and online channels and an inability to compete effectively may adversely affect the business, results of operations, and financial condition.",
+        "Pricing pressure from its competitors may affect the ability to maintain or increase the product prices and, in turn, the revenue from product sale, gross margin, and profitability, which may materially and adversely affect the business.",
+        "The company derives nearly 63% of its revenue from operations from offline retail distribution channels. If it fails to grow revenues from online sales, the company will continue to remain dependent on offline sales channels and any attendant risks."
+      ]
+    },
+    "gmpTimeline": [
+      {
+        "date": "2024-09-28T00:00:00",
+        "price": 20
+      },
+      {
+        "date": "2024-09-26T00:00:00",
+        "price": 30
+      },
+      {
+        "date": "2024-09-25T00:00:00",
+        "price": 30
+      },
+      {
+        "date": "2024-09-24T00:00:00",
+        "price": 40
+      },
+      {
+        "date": "2024-09-23T00:00:00",
+        "price": 40
+      },
+      {
+        "date": "2024-09-21T00:00:00",
+        "price": 40
+      },
+      {
+        "date": "2024-09-20T00:00:00",
+        "price": 30
+      },
+      {
+        "date": "2024-09-19T00:00:00",
+        "price": 30
+      },
+      {
+        "date": "2024-09-18T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-17T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-16T00:00:00",
+        "price": null
+      },
+      {
+        "date": "2024-09-13T00:00:00",
+        "price": null
+      }
+    ]
+  }
+]

@@ -3,16 +3,16 @@ from helper import convert_to_iso_format, convert_to_slug, parse_lot_size, proce
 
 import re
 
-def get_full_ipo_details(stock):
+def get_full_ipo_details(details_url):
     try:
-        return process_individual_stock(stock)
+        return process_individual_stock(details_url)
     except Exception as e:
-        print(f"Error reading individual stock data: {stock['symbol']}")
+        print(f"Error reading individual stock data for {details_url}")
         print(e)
         return None
 
-def process_individual_stock(individual_stock):
-    link = individual_stock['link']
+def process_individual_stock(details_url):
+    link = details_url
     data = scrape_page(link)
     ipo_meta = data.find('div', class_='ipo-meta')
 

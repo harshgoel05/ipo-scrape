@@ -2,8 +2,12 @@ from constants import CRAWL_BASE_URL
 from helper import convert_to_slug, parse_symbol, process_ipo_date, process_listing_date, process_price_range
 
 
-def parse_home_page(rows):
+def parse_home_page(home_page_html):
     try:
+        tables = home_page_html.find('div', id="ipos").findAll('table')
+        rows = []
+        rows.extend(tables[0].find('tbody').find_all('tr'))
+        rows.extend(tables[1].find('tbody').find_all('tr'))
         stock_data = []
         for row in rows:
             # Extract the required information

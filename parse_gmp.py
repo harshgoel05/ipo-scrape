@@ -1,65 +1,43 @@
 from crawler_helper import scrape_page
+from datetime import datetime
+from helper import convert_gmp_date
 
-from datetime import datetime, timedelta
-
-def convert_date(date_str):
-    # Get current date and year
-    today = datetime.today()
-    current_year = today.year
-
-    # If the date string is 'Today', return today's date in the desired format
-    if date_str.lower() == 'today':
-        return today.strftime('%Y-%m-%dT00:00:00')
-
-    # Try to parse the date string into a datetime object
+# ------------------------------------------------
+# Function to get GMP timeline for a stock
+# @param gmp_url - URL of the GMP page
+# @return stock_data - List of GMP data
+# ------------------------------------------------
+def get_gmp_timeline(gmp_url):
     try:
-        # Special handling for dates that include only day and month
-        date_obj = datetime.strptime(date_str, '%d %B')
-        date_obj = date_obj.replace(year=current_year)
-
-        # Handle dates in the next year if today is late in the year and the given date has passed
-        if date_obj < today and today.month == 12:
-            date_obj = date_obj.replace(year=current_year + 1)
-
-    except ValueError:
-        return None
-
-    # Return the date in the desired format
-    return date_obj.strftime('%Y-%m-%dT00:00:00')
-
-
-    
-def get_gmp_timeline(stock):
-    try:
-        return get_gmp_timeline_from_stock_name(stock)
+        if not gmp_url:
+            print(f"[DEBUG] {datetime.now()} No GMP URL found")
+            return None
+        else:
+            return parse_gmp_page(gmp_url)
     except Exception as e:
-        print(f"[DEBUG] {datetime.now()} Error getting GMP timeline for {stock['symbol']}")
+        print(f"[DEBUG] {datetime.now()} Error parsing GMP timeline for {gmp_url}")
         print(e)
         return None
 
-
-def get_gmp_timeline_from_stock_name(stock):
-    if not stock.get('gmpUrl'):
-        print(f"[DEBUG] {datetime.now()} No GMP URL found for {stock['symbol']}")
-        return None
-    gmp_data = parse_gmp_page(stock.get('gmpUrl'))
-    return gmp_data
-
-
-def parse_gmp_page(gmpUrl):
-    data = scrape_page(gmpUrl)
+#  ------------------------------------------------
+#  Function to parse GMP page
+#  @param gmp_url - URL of the GMP page
+#  @return stock_data - List of GMP data
+#  ------------------------------------------------
+def parse_gmp_page(gmp_url):
+    data = scrape_page(gmp_url)
     if not data:
-        print(f"[DEBUG] {datetime.now()} No Data Error scraping gmp page: {stock['symbol']}")
+        print(f"[DEBUG] {datetime.now()} No Data Error scraping gmp page: {gmp_url}")
         return None
     is_error = data.find('h1', class_='elementor-heading-title').text.strip()
     if is_error == '404':
-        print(f"[DEBUG] {datetime.now()} 404 Error scraping gmp page: {stock['symbol']}")
+        print(f"[DEBUG] {datetime.now()} 404 Error scraping gmp page: {gmp_url}")
         return None
 
     table_cont = data.find('figure', class_='wp-block-table')
     table = table_cont.find('tbody')
     if not table:
-        print(f"[DEBUG] {datetime.now()} No table found Error scraping gmp page: {stock['symbol']}")
+        print(f"[DEBUG] {datetime.now()} No table found Error scraping gmp page: {gmp_url}")
         return None
     
     # Initialize an empty list to store the data
@@ -77,7 +55,7 @@ def parse_gmp_page(gmpUrl):
         
         # Append the data to the list in the required format
         stock_data.append({
-            'date': convert_date(date),
+            'date': convert_gmp_date(date),
             'price': gmp_cleaned
         })
     

@@ -178,3 +178,29 @@ def convert_to_slug(company_name):
     if slug.endswith('-ltd'):
         slug = slug.replace('-ltd', '')
     return slug
+
+
+def convert_gmp_date(date_str):
+    # Get current date and year
+    today = datetime.today()
+    current_year = today.year
+
+    # If the date string is 'Today', return today's date in the desired format
+    if date_str.lower() == 'today':
+        return today.strftime('%Y-%m-%dT00:00:00')
+
+    # Try to parse the date string into a datetime object
+    try:
+        # Special handling for dates that include only day and month
+        date_obj = datetime.strptime(date_str, '%d %B')
+        date_obj = date_obj.replace(year=current_year)
+
+        # Handle dates in the next year if today is late in the year and the given date has passed
+        if date_obj < today and today.month == 12:
+            date_obj = date_obj.replace(year=current_year + 1)
+
+    except ValueError:
+        return None
+
+    # Return the date in the desired format
+    return date_obj.strftime('%Y-%m-%dT00:00:00')

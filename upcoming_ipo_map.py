@@ -37,10 +37,10 @@ def ipo_name_to_url_map(url):
 
 def get_gmp_url_for_stocks():
     print(f"[DEBUG] {datetime.now()} -- Getting Mainboard GMP URLs for stocks, after sleep 5")
-    sleep(5)
+    sleep(1)
     upcoming = ipo_name_to_url_map(UPCOMING_IPO)
     print(f"[DEBUG] {datetime.now()} -- Getting SME GMP URLs for SME stocks, after sleep 5")
-    sleep(5)
+    sleep(1)
     sme = ipo_name_to_url_map(UPCOMING_SME_IPO)
     print(f"[DEBUG] {datetime.now()} -- Returning Mainboard and SME GMP URLs")
     return upcoming + sme

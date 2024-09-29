@@ -1,0 +1,212 @@
+(venv)  ✘ harshgoel@Harshs-MacBook-Pro-2  ~/Desktop/personal/ipo-scrape   main ±  /Users/harshgoel/Desktop/personal/ipo-scrape/venv/bin/python /Users/harshgoel/Desktop/personal/ipo-scrape/server.py
+Total stocks found: 50
+Stocks found: ['Diffusion Engineers Ltd', 'Divyadhan Recycling Industries', 'Forge Auto International', 'Sahasra Electronics Solutions', 'Nexxus Petro Industries', 'Saj Hotels', 'HVAX Technologies', 'Subam Papers', 'Hyundai Motor India', 'Swiggy', 'Zepto', 'NTPC Green Energy', 'Ather Energy', 'BOAT', 'Waaree Energies', 'Blackbuck', 'Paras Healthcare', 'Avax Apparels And Ornaments', 'Rubicon Research', 'Stallion India Fluorochemicals', 'Niva Bupa Health Insurance Company', 'FabIndia', 'Afcons Infrastructure', 'Hero Fincorp', 'LG electronics', 'ACME Solar Holdings', 'BMW Ventures', 'Quadrant Future Tek', 'MobiKwik', 'Godavari Biorefineries', 'Keventers Agro', 'VLCC Health Care', 'OYO', 'National Securities Depository Limited', 'Navi Technologies', 'Deltatech Gaming (Adda 52)', 'Lava International', 'Snapdeal', 'Gold Plus Glass Industry', 'Wellness Forever Medicare', 'KRN Heat Exchanger and Refrigeration', 'TechEra Engineering', 'Thinking Hats Entertainment Solutions', 'Unilex Colours and Chemicals', 'Manba Finance', 'WOL3D India', 'Rappid Valves', 'BikeWo GreenTech', 'SD Retail', 'Phoenix Overseas']
+[DEBUG] $2024-09-28 00:09:56.153666 -- Getting Mainboard GMP URLs for stocks, after sleep 5
+[DEBUG] $2024-09-28 00:10:01.156412 -- Scraping https://ipowatch.in/upcoming-ipo-calendar-ipo-list/ for IPO data
+[DEBUG] $2024-09-28 00:10:02.387313 -- Scraped https://ipowatch.in/upcoming-ipo-calendar-ipo-list/ for IPO data
+[DEBUG] $2024-09-28 00:10:02.388637 -- Returning IPO data for url https://ipowatch.in/upcoming-ipo-calendar-ipo-list/
+[DEBUG] $2024-09-28 00:10:02.388647 -- Getting SME GMP URLs for SME stocks, after sleep 5
+[DEBUG] $2024-09-28 00:10:07.392376 -- Scraping https://ipowatch.in/upcoming-sme-ipo-calendar-list/ for IPO data
+[DEBUG] $2024-09-28 00:10:10.117058 -- Scraped https://ipowatch.in/upcoming-sme-ipo-calendar-list/ for IPO data
+[DEBUG] $2024-09-28 00:10:10.118548 -- Returning IPO data for url https://ipowatch.in/upcoming-sme-ipo-calendar-list/
+[DEBUG] $2024-09-28 00:10:10.118560 -- Returning Mainboard and SME GMP URLs
+Total GMP URLs found: 71
+[DEBUG] $2024-09-28 00:10:10.119405 Fetching full ipo details for: $DIFFNKG after sleep 5
+[DEBUG] $2024-09-28 00:10:15.337095 Fetching GMP timeline for: $DIFFNKG after sleep 5
+[DEBUG] $2024-09-28 00:10:21.286420 Error getting GMP timeline for DIFFNKG
+invalid literal for int() with base 10: 'September 30, 2024'
+[DEBUG] $2024-09-28 00:10:21.286447 Fetching full ipo details for: $DIVYADHAN after sleep 5
+[DEBUG] $2024-09-28 00:10:26.499217 Fetching GMP timeline for: $DIVYADHAN after sleep 5
+[DEBUG] $2024-09-28 00:10:31.922143 Error getting GMP timeline for DIVYADHAN
+invalid literal for int() with base 10: 'September 30, 2024'
+[DEBUG] $2024-09-28 00:10:31.922172 Fetching full ipo details for: $FORGEAUTO after sleep 5
+[DEBUG] $2024-09-28 00:10:37.131172 Fetching GMP timeline for: $FORGEAUTO after sleep 5
+[DEBUG] $2024-09-28 00:10:42.551580 Error getting GMP timeline for FORGEAUTO
+invalid literal for int() with base 10: 'September 30, 2024'
+[DEBUG] $2024-09-28 00:10:42.551618 Fetching full ipo details for: $SAHASRA after sleep 5
+[DEBUG] $2024-09-28 00:10:47.764945 Fetching GMP timeline for: $SAHASRA after sleep 5
+[DEBUG] $2024-09-28 00:10:55.962523 Error getting GMP timeline for SAHASRA
+invalid literal for int() with base 10: 'September 30, 2024'
+[DEBUG] $2024-09-28 00:10:55.962547 Fetching full ipo details for: $NEXXUS after sleep 5
+[DEBUG] $2024-09-28 00:11:01.168247 Fetching GMP timeline for: $NEXXUS after sleep 5
+[DEBUG] $2024-09-28 00:11:08.736556 Error getting GMP timeline for NEXXUS
+invalid literal for int() with base 10: 'September 30, 2024'
+[DEBUG] $2024-09-28 00:11:08.736590 Fetching full ipo details for: $SAJHOTELS after sleep 5
+[DEBUG] $2024-09-28 00:11:14.421478 Fetching GMP timeline for: $SAJHOTELS after sleep 5
+[DEBUG] $2024-09-28 00:11:20.357037 Error getting GMP timeline for SAJHOTELS
+invalid literal for int() with base 10: 'October 1, 2024'
+[DEBUG] $2024-09-28 00:11:20.357063 Fetching full ipo details for: $HVAX after sleep 5
+[DEBUG] $2024-09-28 00:11:25.583075 Fetching GMP timeline for: $HVAX after sleep 5
+[DEBUG] $2024-09-28 00:11:30.927799 Error getting GMP timeline for HVAX
+invalid literal for int() with base 10: 'October 1, 2024'
+[DEBUG] $2024-09-28 00:11:30.927826 Fetching full ipo details for: $SUBAM after sleep 5
+[DEBUG] $2024-09-28 00:11:36.148972 Fetching GMP timeline for: $SUBAM after sleep 5
+[DEBUG] $2024-09-28 00:11:45.565119 Error getting GMP timeline for SUBAM
+invalid literal for int() with base 10: 'October 3, 2024'
+[DEBUG] $2024-09-28 00:11:45.565153 Fetching full ipo details for: $HYUNDAI after sleep 5
+[DEBUG] $2024-09-28 00:11:50.794785 Fetching GMP timeline for: $HYUNDAI after sleep 5
+[DEBUG] $2024-09-28 00:11:57.616204 Error getting GMP timeline for HYUNDAI
+invalid literal for int() with base 10: '10 Per Equity Share'
+[DEBUG] $2024-09-28 00:11:57.616239 Fetching full ipo details for: $SWIGGY after sleep 5
+[DEBUG] $2024-09-28 00:12:02.840655 Fetching GMP timeline for: $SWIGGY after sleep 5
+[DEBUG] $2024-09-28 00:12:07.844861 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:12:07.845077 No Data Error scraping gmp page: SWIGGY
+[DEBUG] $2024-09-28 00:12:07.845121 Fetching full ipo details for: $ZEPTO after sleep 5
+[DEBUG] $2024-09-28 00:12:13.169851 Fetching GMP timeline for: $ZEPTO after sleep 5
+[DEBUG] $2024-09-28 00:12:18.174435 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:12:18.174523 No Data Error scraping gmp page: ZEPTO
+[DEBUG] $2024-09-28 00:12:18.174540 Fetching full ipo details for: $NTPCGREEN after sleep 5
+[DEBUG] $2024-09-28 00:12:23.486888 Fetching GMP timeline for: $NTPCGREEN after sleep 5
+[DEBUG] $2024-09-28 00:12:28.488015 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:12:28.488144 No Data Error scraping gmp page: NTPCGREEN
+[DEBUG] $2024-09-28 00:12:28.488163 Fetching full ipo details for: $ATHER after sleep 5
+[DEBUG] $2024-09-28 00:12:33.779343 Fetching GMP timeline for: $ATHER after sleep 5
+[DEBUG] $2024-09-28 00:12:38.783913 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:12:38.784067 No Data Error scraping gmp page: ATHER
+[DEBUG] $2024-09-28 00:12:38.784101 Fetching full ipo details for: $BOAT after sleep 5
+[DEBUG] $2024-09-28 00:12:44.052609 Fetching GMP timeline for: $BOAT after sleep 5
+[DEBUG] $2024-09-28 00:12:49.056994 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:12:49.057153 No Data Error scraping gmp page: BOAT
+[DEBUG] $2024-09-28 00:12:49.057188 Fetching full ipo details for: $WAAREEENERGY after sleep 5
+[DEBUG] $2024-09-28 00:12:54.299983 Fetching GMP timeline for: $WAAREEENERGY after sleep 5
+[DEBUG] $2024-09-28 00:12:59.304921 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:12:59.305057 No Data Error scraping gmp page: WAAREEENERGY
+[DEBUG] $2024-09-28 00:12:59.305084 Fetching full ipo details for: $BLACKBUCK after sleep 5
+[DEBUG] $2024-09-28 00:13:04.529364 Fetching GMP timeline for: $BLACKBUCK after sleep 5
+[DEBUG] $2024-09-28 00:13:09.534293 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:13:09.534431 No Data Error scraping gmp page: BLACKBUCK
+[DEBUG] $2024-09-28 00:13:09.534465 Fetching full ipo details for: $PARASHCL after sleep 5
+[DEBUG] $2024-09-28 00:13:14.762785 Fetching GMP timeline for: $PARASHCL after sleep 5
+[DEBUG] $2024-09-28 00:13:19.767909 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:13:19.768056 No Data Error scraping gmp page: PARASHCL
+[DEBUG] $2024-09-28 00:13:19.768089 Fetching full ipo details for: $AVAX after sleep 5
+[DEBUG] $2024-09-28 00:13:24.980332 Fetching GMP timeline for: $AVAX after sleep 5
+[DEBUG] $2024-09-28 00:13:30.957527 Error getting GMP timeline for AVAX
+invalid literal for int() with base 10: 'September 24, 2024'
+[DEBUG] $2024-09-28 00:13:30.957562 Fetching full ipo details for: $RUBICON after sleep 5
+[DEBUG] $2024-09-28 00:13:36.178182 Fetching GMP timeline for: $RUBICON after sleep 5
+[DEBUG] $2024-09-28 00:13:41.178866 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:13:41.178930 No Data Error scraping gmp page: RUBICON
+[DEBUG] $2024-09-28 00:13:41.178940 Fetching full ipo details for: $STALLION after sleep 5
+[DEBUG] $2024-09-28 00:13:46.524386 Fetching GMP timeline for: $STALLION after sleep 5
+[DEBUG] $2024-09-28 00:13:51.529221 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:13:51.529350 No Data Error scraping gmp page: STALLION
+[DEBUG] $2024-09-28 00:13:51.529375 Fetching full ipo details for: $NBHIC after sleep 5
+[DEBUG] $2024-09-28 00:13:57.320354 Fetching GMP timeline for: $NBHIC after sleep 5
+[DEBUG] $2024-09-28 00:14:02.322921 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:14:02.323044 No Data Error scraping gmp page: NBHIC
+[DEBUG] $2024-09-28 00:14:02.323068 Fetching full ipo details for: $FABINDIA after sleep 5
+[DEBUG] $2024-09-28 00:14:07.654074 Fetching GMP timeline for: $FABINDIA after sleep 5
+[DEBUG] $2024-09-28 00:14:12.658265 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:14:12.658393 No Data Error scraping gmp page: FABINDIA
+[DEBUG] $2024-09-28 00:14:12.658414 Fetching full ipo details for: $AFCONS after sleep 5
+[DEBUG] $2024-09-28 00:14:17.862942 Fetching GMP timeline for: $AFCONS after sleep 5
+[DEBUG] $2024-09-28 00:14:23.915195 Error getting GMP timeline for AFCONS
+invalid literal for int() with base 10: 'October, 2024'
+[DEBUG] $2024-09-28 00:14:23.915232 Fetching full ipo details for: $HEROFINCORP after sleep 5
+[DEBUG] $2024-09-28 00:14:29.138778 Fetching GMP timeline for: $HEROFINCORP after sleep 5
+[DEBUG] $2024-09-28 00:14:34.141417 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:14:34.141538 No Data Error scraping gmp page: HEROFINCORP
+[DEBUG] $2024-09-28 00:14:34.141557 Fetching full ipo details for: $LGELEC after sleep 5
+[DEBUG] $2024-09-28 00:14:39.600087 Fetching GMP timeline for: $LGELEC after sleep 5
+[DEBUG] $2024-09-28 00:14:44.605641 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:14:44.605813 No Data Error scraping gmp page: LGELEC
+[DEBUG] $2024-09-28 00:14:44.605848 Fetching full ipo details for: $ASHL after sleep 5
+[DEBUG] $2024-09-28 00:14:49.820269 Fetching GMP timeline for: $ASHL after sleep 5
+[DEBUG] $2024-09-28 00:14:54.826914 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:14:54.827069 No Data Error scraping gmp page: ASHL
+[DEBUG] $2024-09-28 00:14:54.827107 Fetching full ipo details for: $BMW after sleep 5
+[DEBUG] $2024-09-28 00:15:00.046245 Fetching GMP timeline for: $BMW after sleep 5
+[DEBUG] $2024-09-28 00:15:05.049954 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:15:05.050108 No Data Error scraping gmp page: BMW
+[DEBUG] $2024-09-28 00:15:05.050141 Fetching full ipo details for: $QUADRANT after sleep 5
+[DEBUG] $2024-09-28 00:15:10.274785 Fetching GMP timeline for: $QUADRANT after sleep 5
+[DEBUG] $2024-09-28 00:15:15.279339 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:15:15.279468 No Data Error scraping gmp page: QUADRANT
+[DEBUG] $2024-09-28 00:15:15.279498 Fetching full ipo details for: $MOBIKWIK after sleep 5
+[DEBUG] $2024-09-28 00:15:20.500161 Fetching GMP timeline for: $MOBIKWIK after sleep 5
+[DEBUG] $2024-09-28 00:15:25.504570 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:15:25.504725 No Data Error scraping gmp page: MOBIKWIK
+[DEBUG] $2024-09-28 00:15:25.504761 Fetching full ipo details for: $GBL after sleep 5
+[DEBUG] $2024-09-28 00:15:30.780647 Fetching GMP timeline for: $GBL after sleep 5
+[DEBUG] $2024-09-28 00:15:35.786320 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:15:35.786478 No Data Error scraping gmp page: GBL
+[DEBUG] $2024-09-28 00:15:35.786560 Fetching full ipo details for: $KEVENTERS after sleep 5
+[DEBUG] $2024-09-28 00:15:41.003507 Fetching GMP timeline for: $KEVENTERS after sleep 5
+[DEBUG] $2024-09-28 00:15:46.006034 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:15:46.006092 No Data Error scraping gmp page: KEVENTERS
+[DEBUG] $2024-09-28 00:15:46.006104 Fetching full ipo details for: $VLCC after sleep 5
+[DEBUG] $2024-09-28 00:15:51.225970 Fetching GMP timeline for: $VLCC after sleep 5
+[DEBUG] $2024-09-28 00:15:56.228726 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:15:56.228898 No Data Error scraping gmp page: VLCC
+[DEBUG] $2024-09-28 00:15:56.228932 Fetching full ipo details for: $OYO after sleep 5
+[DEBUG] $2024-09-28 00:16:01.454210 Fetching GMP timeline for: $OYO after sleep 5
+[DEBUG] $2024-09-28 00:16:06.457317 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:16:06.457466 No Data Error scraping gmp page: OYO
+[DEBUG] $2024-09-28 00:16:06.457504 Fetching full ipo details for: $NSDL after sleep 5
+[DEBUG] $2024-09-28 00:16:12.099921 Fetching GMP timeline for: $NSDL after sleep 5
+[DEBUG] $2024-09-28 00:16:17.101916 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:16:17.102076 No Data Error scraping gmp page: NSDL
+[DEBUG] $2024-09-28 00:16:17.102109 Fetching full ipo details for: $NAVITECH after sleep 5
+[DEBUG] $2024-09-28 00:16:22.864206 Fetching GMP timeline for: $NAVITECH after sleep 5
+[DEBUG] $2024-09-28 00:16:27.867318 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:16:27.867459 No Data Error scraping gmp page: NAVITECH
+[DEBUG] $2024-09-28 00:16:27.867485 Fetching full ipo details for: $DELTAGAMING after sleep 5
+[DEBUG] $2024-09-28 00:16:33.088993 Fetching GMP timeline for: $DELTAGAMING after sleep 5
+[DEBUG] $2024-09-28 00:16:38.092533 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:16:38.092709 No Data Error scraping gmp page: DELTAGAMING
+[DEBUG] $2024-09-28 00:16:38.092745 Fetching full ipo details for: $LAVA after sleep 5
+[DEBUG] $2024-09-28 00:16:43.434782 Fetching GMP timeline for: $LAVA after sleep 5
+[DEBUG] $2024-09-28 00:16:48.437290 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:16:48.437421 No Data Error scraping gmp page: LAVA
+[DEBUG] $2024-09-28 00:16:48.437444 Fetching full ipo details for: $SNAPDEAL after sleep 5
+[DEBUG] $2024-09-28 00:16:54.155035 Fetching GMP timeline for: $SNAPDEAL after sleep 5
+[DEBUG] $2024-09-28 00:16:59.159699 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:16:59.159810 No Data Error scraping gmp page: SNAPDEAL
+[DEBUG] $2024-09-28 00:16:59.159837 Fetching full ipo details for: $GPGIL after sleep 5
+[DEBUG] $2024-09-28 00:17:04.675436 Fetching GMP timeline for: $GPGIL after sleep 5
+[DEBUG] $2024-09-28 00:17:09.677689 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:17:09.677841 No Data Error scraping gmp page: GPGIL
+[DEBUG] $2024-09-28 00:17:09.677876 Fetching full ipo details for: $WELLNESS after sleep 5
+[DEBUG] $2024-09-28 00:17:18.026615 Fetching GMP timeline for: $WELLNESS after sleep 5
+[DEBUG] $2024-09-28 00:17:23.029679 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:17:23.029841 No Data Error scraping gmp page: WELLNESS
+[DEBUG] $2024-09-28 00:17:23.029874 Fetching full ipo details for: $KRN after sleep 5
+[DEBUG] $2024-09-28 00:17:28.262909 Fetching GMP timeline for: $KRN after sleep 5
+[DEBUG] $2024-09-28 00:17:37.558268 Error getting GMP timeline for KRN
+invalid literal for int() with base 10: 'September 27, 2024'
+[DEBUG] $2024-09-28 00:17:37.558306 Fetching full ipo details for: $TECHERA after sleep 5
+[DEBUG] $2024-09-28 00:17:42.772267 Fetching GMP timeline for: $TECHERA after sleep 5
+[DEBUG] $2024-09-28 00:17:50.123317 Error getting GMP timeline for TECHERA
+invalid literal for int() with base 10: 'September 27, 2024'
+[DEBUG] $2024-09-28 00:17:50.123359 Fetching full ipo details for: $THESL after sleep 5
+[DEBUG] $2024-09-28 00:17:55.344401 Fetching GMP timeline for: $THESL after sleep 5
+[DEBUG] $2024-09-28 00:18:00.770965 Error getting GMP timeline for THESL
+invalid literal for int() with base 10: 'September 27, 2024'
+[DEBUG] $2024-09-28 00:18:00.771003 Fetching full ipo details for: $UNILEX after sleep 5
+[DEBUG] $2024-09-28 00:18:06.001122 Fetching GMP timeline for: $UNILEX after sleep 5
+[DEBUG] $2024-09-28 00:18:12.404232 Error getting GMP timeline for UNILEX
+invalid literal for int() with base 10: 'September 27, 2024'
+[DEBUG] $2024-09-28 00:18:12.404273 Fetching full ipo details for: $MANBA after sleep 5
+[DEBUG] $2024-09-28 00:18:18.149701 Fetching GMP timeline for: $MANBA after sleep 5
+[DEBUG] $2024-09-28 00:18:24.175086 Error getting GMP timeline for MANBA
+invalid literal for int() with base 10: 'September 25, 2024'
+[DEBUG] $2024-09-28 00:18:24.175127 Fetching full ipo details for: $SME after sleep 5
+[DEBUG] $2024-09-28 00:18:29.890206 Fetching GMP timeline for: $SME after sleep 5
+[DEBUG] $2024-09-28 00:18:34.892228 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:18:34.892384 No Data Error scraping gmp page: SME
+[DEBUG] $2024-09-28 00:18:34.892419 Fetching full ipo details for: $RAPPID after sleep 5
+[DEBUG] $2024-09-28 00:18:40.568591 Fetching GMP timeline for: $RAPPID after sleep 5
+invalid literal for int() with base 10: 'September 25, 2024'
+[DEBUG] $2024-09-28 00:19:07.031049 Fetching full ipo details for: $BIKEWO after sleep 5
+[DEBUG] $2024-09-28 00:19:12.262378 Fetching GMP timeline for: $BIKEWO after sleep 5
+[DEBUG] $2024-09-28 00:19:17.266727 Error crawling stock page link - $None Error - Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[DEBUG] $2024-09-28 00:19:17.266882 No Data Error scraping gmp page: BIKEWO
+[DEBUG] $2024-09-28 00:19:17.266916 Fetching full ipo details for: $SDREAMS after sleep 5
+[DEBUG] $2024-09-28 00:19:22.494171 Fetching GMP timeline for: $SDREAMS after sleep 5
+[DEBUG] $2024-09-28 00:19:28.794808 Error getting GMP timeline for SDREAMS
+invalid literal for int() with base 10: 'September 24, 2024'
+[DEBUG] $2024-09-28 00:19:28.794837 Fetching full ipo details for: $PHOGLOBAL after sleep 5
+[DEBUG] $2024-09-28 00:19:34.002644 Fetching GMP timeline for: $PHOGLOBAL after sleep 5
+[DEBUG] $2024-09-28 00:19:39.420349 Error getting GMP timeline for PHOGLOBAL
+invalid literal for int() with base 10
