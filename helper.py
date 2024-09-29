@@ -135,8 +135,8 @@ def process_ipo_date(ipo_date):
     end_date = end_date.replace(tzinfo=timezone(timedelta(hours=5, minutes=30))) if end_date else None
 
     # Format with timezone information
-    start_date_str = start_date.strftime("%Y-%m-%dT%H:%M:%S%z") if start_date else None
-    end_date_str = end_date.strftime("%Y-%m-%dT%H:%M:%S%z") if end_date else None
+    start_date_str = start_date.strftime("%Y-%m-%dT%H:%M:%S%z")[:-2] + ':' + start_date.strftime("%z")[-2:] if start_date else None
+    end_date_str =  end_date.strftime("%Y-%m-%dT%H:%M:%S%z")[:-2] + ':' + end_date.strftime("%z")[-2:] if end_date else None
     
     return start_date_str, end_date_str
 
