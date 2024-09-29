@@ -37,8 +37,11 @@ def convert_to_iso_format(date_str):
         # Combine date and time
         combined = datetime.combine(date, time)
         
-        # Convert to ISO 8601 format
-        return combined.isoformat()
+        ist_timezone = timezone(timedelta(hours=5, minutes=30))
+        combined = combined.replace(tzinfo=ist_timezone)
+        
+        # Format the date with time and timezone offset
+        return combined.strftime("%Y-%m-%dT%H:%M:%S%z")[:-2] + ':' + combined.strftime("%z")[-2:]
 
     except Exception as e:
         print(f"[DEBUG] {datetime.now()} Error converting to ISO format: {date_str} {e}")
@@ -196,7 +199,9 @@ def convert_gmp_date(date_str):
 
     # If the date string is 'Today', return today's date in the desired format
     if date_str.lower() == 'today':
-        return today.strftime('%Y-%m-%dT00:00:00')
+        ist_timezone = timezone(timedelta(hours=5, minutes=30))
+        today = today.replace(tzinfo=ist_timezone)
+        return today.strftime("%Y-%m-%dT%H:%M:%S%z")[:-2] + ':' + today.strftime("%z")[-2:]
 
     # Try to parse the date string into a datetime object
     try:
@@ -211,5 +216,11 @@ def convert_gmp_date(date_str):
     except ValueError:
         return None
 
+
     # Return the date in the desired format
-    return date_obj.strftime('%Y-%m-%dT00:00:00')
+    ist_timezone = timezone(timedelta(hours=5, minutes=30))
+    date_obj = date_obj.replace(tzinfo=ist_timezone)
+    return date_obj.strftime("%Y-%m-%dT%H:%M:%S%z")[:-2] + ':' + date_obj.strftime("%z")[-2:]
+
+
+

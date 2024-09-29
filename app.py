@@ -30,9 +30,10 @@ def get_calendar():
 def get_ipo_details_by_symbol():
     gmp_url = request.args.get('gmp_url')
     details_url = request.args.get('details_url')
-    return get_stock_details_and_gmp_from_symbol(details_url, gmp_url)
+    response = get_stock_details_and_gmp_from_symbol(details_url, gmp_url)
+    return response
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(port=8000)
 
