@@ -1,9 +1,17 @@
 from glob import escape
-from flask import Flask, request
+from flask import Config, Flask, request
+from flask_cors import CORS
 
 from scraper_main import get_all_ipo_listing_with_gmp_link, get_stock_details_and_gmp_from_symbol
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 app = Flask(__name__)
+CORS(app)
+
+app.config.from_object(Config)
 
 # ------------------------------------------------
 # GET /calendar
@@ -23,4 +31,8 @@ def get_ipo_details_by_symbol():
     gmp_url = request.args.get('gmp_url')
     details_url = request.args.get('details_url')
     return get_stock_details_and_gmp_from_symbol(details_url, gmp_url)
+
+
+if __name__ == "__main__":
+    app.run()
 
