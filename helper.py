@@ -16,7 +16,7 @@ def parse_lot_size(input_string):
         print(f"[DEBUG] {datetime.now()} Error parsing lot size: {input_string} {e}")
         return None, None
     
-def convert_to_iso_format(date_str):
+def parse_schedule_date(date_str):
     # Try different patterns for parsing
     try:
         # Case with time provided, e.g., "27 Sep 2024 (5 PM)"
@@ -49,7 +49,7 @@ def convert_to_iso_format(date_str):
     
 def process_listing_date(listing_date_str):
     try:
-        if listing_date_str.strip() == '–':
+        if listing_date_str.strip() == '-'  or listing_date_str.strip() == '\u2013':
             return None
         
         # Parse the listing date

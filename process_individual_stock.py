@@ -1,5 +1,5 @@
 from crawler_helper import scrape_page
-from helper import convert_to_iso_format, convert_to_slug, parse_lot_size, process_ipo_date, process_listing_date
+from helper import parse_schedule_date, convert_to_slug, parse_lot_size, process_ipo_date, process_listing_date
 
 import re
 
@@ -42,7 +42,7 @@ def process_individual_stock(details_url):
         schedule = []
         for row in schedule_rows:
             label = row.find('td', class_='ipo-schedule-label').text.strip()
-            date = convert_to_iso_format(row.find('td', class_='ipo-schedule-date').text.strip())
+            date = parse_schedule_date(row.find('td', class_='ipo-schedule-date').text.strip())
             schedule_temp = {}
             schedule_temp["event"] = convert_to_slug(label)
             schedule_temp["date"] = date
