@@ -53,8 +53,9 @@ def get_urls_by_names(name, data_list):
     for data in data_list:
         if cleaned_name in data['name'].lower() or data['name'].lower() in cleaned_name:
             url = data['url']
-            # url -> https://ipowatch.in/sd-retail-ipo-date-review-price-allotment-details/
-            # Convert -> https://ipowatch.in/sd-retail-ipo-gmp-grey-market-premium/
-            return url.replace('ipo-date-review-price-allotment-details', 'ipo-gmp-grey-market-premium')
+            cleaned_url = re.sub(r'\b(-ltd|-pvt|-industries|-solutions|-international|-technologies|-india)\b', '', url, flags=re.IGNORECASE).strip().lower()
+            # Replace specific part of the URL if needed
+            cleaned_url = cleaned_url.replace('ipo-date-review-price-allotment-details', 'ipo-gmp-grey-market-premium')
+            return cleaned_url
 
     return None
