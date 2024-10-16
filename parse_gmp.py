@@ -51,8 +51,8 @@ def parse_gmp_page(gmp_url):
         gmp = cols[1].get_text().strip()   # Extract the GMP value
         
         # Remove ₹ symbol and handle '-' as null
-        gmp_cleaned = None if gmp == '₹-' or gmp == '-' or gmp == '\u2013' else int(gmp.replace('₹', '').strip())
-        
+        gmp_cleaned = None if gmp in ['₹-', '-', '\u2013'] else int(gmp.replace('₹', '').replace(',', '').strip())
+
         # Append the data to the list in the required format
         stock_data.append({
             'date': convert_gmp_date(date),
