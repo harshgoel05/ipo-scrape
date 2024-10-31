@@ -71,13 +71,26 @@ def process_listing_date(listing_date_str):
     
 def process_price_range(price_range):
     try:
-        if(price_range == '-' or price_range == '\u2013'):
+        # Check if the input is a dash or en-dash, indicating no range
+        if price_range in ['-', '\u2013']:
             return None, None
-        # Remove the Rupee symbol and split the range
-        prices = re.sub(r'[^\d\s–]', '', price_range).split('–')
-        min_price = int(prices[0].strip())
-        max_price = int(prices[-1].strip()) if len(prices) > 1 else min_price
+        
+        # Extract prices using regex to handle various formats and remove non-digit characters
+        matches = re.findall(r'₹\s*(\d+)', price_range)
+        
+        # If no valid price matches are found
+        if not matches:
+            return None, None
+        
+        # Convert matched prices to integers
+        prices = list(map(int, matches))
+        
+        # Get min and max prices; if only one price, both min and max are the same
+        min_price = prices[0]
+        max_price = prices[1] if len(prices) > 1 else min_price
+        
         return min_price, max_price
+
     except ValueError:
         print(f"[DEBUG] {datetime.now()} Error parsing price range: {price_range}")
         return None, None
