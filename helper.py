@@ -220,20 +220,29 @@ def convert_gmp_date(date_str):
     try:
         # Special handling for dates that include only day and month
         date_obj = datetime.strptime(date_str, '%d %B')
+        
+        # Initially assume the date is in the current year
         date_obj = date_obj.replace(year=current_year)
 
-        # Handle dates in the next year if today is late in the year and the given date has passed
-        if date_obj < today and today.month == 12:
+        # Handle year transitions
+        if today.month == 1 and date_obj.month == 12:
+            # If it's January now but the date is December, assign the previous year
+            date_obj = date_obj.replace(year=current_year - 1)
+        elif today.month == 12 and date_obj < today:
+            # If it's December and the date has already passed, assign the next year
             date_obj = date_obj.replace(year=current_year + 1)
 
     except ValueError:
+        # Return None if parsing fails
         return None
 
-
-    # Return the date in the desired format
+    # Convert to IST timezone
     ist_timezone = timezone(timedelta(hours=5, minutes=30))
     date_obj = date_obj.replace(tzinfo=ist_timezone)
+    
+    # Return the date in the desired ISO format with timezone
     return date_obj.strftime("%Y-%m-%dT%H:%M:%S%z")[:-2] + ':' + date_obj.strftime("%z")[-2:]
+
 
 
 
