@@ -1,4 +1,3 @@
-
 from datetime import datetime
 import json
 from time import sleep
@@ -20,6 +19,11 @@ def get_all_ipo_listing_with_gmp_link():
     home_page_html = scrape_page(CRAWL_BASE_URL  + CRAWL_HOME_PAGE)
     # Parse the table to get all the stock data
     all_stocks_from_table = parse_home_page(home_page_html)
+
+    # Handle case where no stocks are found
+    if all_stocks_from_table is None:
+        print("No stocks found in the table")
+        return []
 
     print(f"Total stocks found: {len(all_stocks_from_table)}")
     print("Stocks found:", extract_names(all_stocks_from_table))
