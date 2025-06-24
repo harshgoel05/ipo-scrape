@@ -72,33 +72,39 @@ def _parse_ipo_details(data):
         for row in rows:
             cols = row.find_all("td")
             if len(cols) == 2:
-                key = cols[0].get_text(strip=True).replace(":", "")
+                key = (
+                    re.sub(r"\s+", " ", cols[0].get_text(strip=True))
+                    .replace(":", "")
+                    .strip()
+                )
                 value_cell = cols[1]
-
+                value_text = re.sub(
+                    r"\s+", " ", value_cell.get_text(strip=True)
+                ).strip()
                 if key == "Offer for Sale":
-                    text = value_cell.get_text(strip=True).replace(",", "")
+                    text = value_text.replace(",", "")
                     numbers = re.findall(r"\d+", text)
                     if numbers:
                         details["offerForSale"] = int("".join(numbers))
                 elif key == "IPO Listing":
-                    details["ipoListing"] = value_cell.get_text(strip=True)
+                    details["ipoListing"] = value_text
                 elif key == "Face Value":
-                    text = value_cell.get_text(strip=True)
+                    text = value_text
                     numbers = re.findall(r"(\d+)", text)
                     if numbers:
                         details["faceValue"] = int(numbers[0])
                 elif key == "Retail Quota":
-                    text = value_cell.get_text(strip=True)
+                    text = value_text
                     numbers = re.findall(r"\d+", text)
                     if numbers:
                         details["retailQuota"] = int(numbers[0])
                 elif key == "QIB Quota":
-                    text = value_cell.get_text(strip=True)
+                    text = value_text
                     numbers = re.findall(r"\d+", text)
                     if numbers:
                         details["qibQuota"] = int(numbers[0])
                 elif key == "NII Quota":
-                    text = value_cell.get_text(strip=True)
+                    text = value_text
                     numbers = re.findall(r"\d+", text)
                     if numbers:
                         details["niiQuota"] = int(numbers[0])
