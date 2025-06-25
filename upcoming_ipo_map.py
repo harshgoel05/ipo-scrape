@@ -26,9 +26,9 @@ def ipo_name_to_url_map(url):
             for row in rows:
                 first_td = row.find("td")  # Get the first <td> element
                 if first_td and first_td.find("a"):
-                    ipo_name = first_td.get_text(
-                        strip=True
-                    )  # Extract the IPO name (text in <td>)
+                    ipo_name = first_td.get_text(strip=True).replace(
+                        "\n", " "
+                    )  # Extract the IPO name (text in <td>) and replace newlines with space
                     ipo_url = first_td.find("a")[
                         "href"
                     ]  # Extract the URL from the <a> tag
