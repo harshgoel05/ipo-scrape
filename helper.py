@@ -1,5 +1,6 @@
 import re
 from datetime import datetime, timedelta, timezone
+import requests
 
 
 def parse_lot_size(input_string):

@@ -8,12 +8,13 @@ from bs4 import BeautifulSoup
 # ------------------------------------------------
 #  Function to scrape a page
 #  @param link - URL of the page to scrape
+#  @param headers - Optional headers for the request
 #  @return soup - BeautifulSoup object
 # ------------------------------------------------
 #
-def scrape_page(link):
+def scrape_page(link, headers=None):
     try:
-        r = requests.get(link)
+        r = requests.get(link, headers=headers) if headers else requests.get(link)
         soup = BeautifulSoup(r.content, "html.parser")
         return soup
     except Exception as e:
