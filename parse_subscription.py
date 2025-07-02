@@ -1,4 +1,5 @@
 from datetime import datetime
+import re
 
 
 def parse_subscription_page(soup):
@@ -35,11 +36,39 @@ def parse_ipo_block(block):
     date_price_row = rows[1].find_all("td")
     date_text = clean(date_price_row[0].text)
     if "to" in date_text:
-        open_date, close_date = map(
+        open_date_raw, close_date_raw = map(
             str.strip, date_text.replace("Date:", "").split("to")
         )
-        ipo["open_date"] = open_date + " 2025"
-        ipo["close_date"] = close_date + " 2025"
+
+        # Remove ordinal suffixes
+        def remove_ordinal_suffix(s):
+            return re.sub(r"(st|nd|rd|th)", "", s)
+
+        close_date_clean = remove_ordinal_suffix(close_date_raw)
+        # Parse close_date to get day, month, year
+        try:
+            close_date_obj = datetime.strptime(close_date_clean, "%d %b %Y")
+            # For open_date, if only day is present, use month/year from close_date
+            open_date_clean = remove_ordinal_suffix(open_date_raw)
+            if re.match(r"^\d+$", open_date_clean):
+                open_date_full = f"{open_date_clean} {close_date_obj.strftime('%b %Y')}"
+            else:
+                open_date_full = open_date_clean
+            open_date_obj = datetime.strptime(open_date_full, "%d %b %Y")
+            # Set time to 10:00:00 and timezone to IST (+05:30)
+            from datetime import timezone, timedelta
+
+            ist = timezone(timedelta(hours=5, minutes=30))
+            open_date_obj = open_date_obj.replace(
+                hour=10, minute=0, second=0, tzinfo=ist
+            )
+            close_date_obj = close_date_obj.replace(
+                hour=17, minute=0, second=0, tzinfo=ist
+            )
+            ipo["open_date"] = open_date_obj.isoformat()
+            ipo["close_date"] = close_date_obj.isoformat()
+        except Exception as e:
+            ipo["open_date"] = ipo["close_date"] = None
     else:
         ipo["open_date"] = ipo["close_date"] = None
 
@@ -118,7 +147,8 @@ def parse_subscription_table(block):
         for row in rows:
             cols = row.find_all("td")
             if len(cols) == 4:
-                category = clean(cols[0].text).replace(" ", " ").strip()
+                category = clean(cols[0].text).replace("\u00a0", " ").strip()
+                category_lc = category.lower()
                 offered = clean(cols[1].text)
                 applied = clean(cols[2].text)
                 times = clean(cols[3].text)
@@ -127,18 +157,20 @@ def parse_subscription_table(block):
                     "applied": applied,
                     "times": times,
                 }
-                if category == "QIBs":
+                if category_lc in ["qib", "qibs"]:
                     subscription_data["QIBs"] = record
-                elif category == "HNIs":
+                elif category_lc in ["hni", "hnis"]:
                     subscription_data["HNIs"] = record
-                elif category == "Retail":
+                elif category_lc in ["nib", "nibs"]:
+                    subscription_data["NIBs"] = record
+                elif category_lc == "retail":
                     subscription_data["Retail"] = record
-                elif category == "Employees":
+                elif category_lc == "employees":
                     subscription_data["Employees"] = record
-                elif category == "Shareholders":
+                elif category_lc == "shareholders":
                     subscription_data["Shareholders"] = record
-                elif category == "Total":
+                elif category_lc == "total":
                     subscription_data["Total"] = record
-                elif category.startswith("HNIs "):
+                elif category_lc.startswith("hnis "):
                     subscription_data["breakdown"][category] = record
     return subscription_data
